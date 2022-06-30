@@ -1,0 +1,181 @@
+address_street,city,state,zip_code,price,beds,baths,area_sq_ft,latitude,longitude,status_text,list_url,date_scraped
+3749 Brickmont Dr,Nashville,TN,37207,"$319,900",3,2,"1,211",36.246445,-86.76923,Coming soon,https://www.zillow.com/homedetails/3749-Brickmont-Dr-Nashville-TN-37207/41063317_zpid/,06-23-2022_21:37:39
+8105 Bonnafair Dr,Hermitage,TN,37076,"$549,900",4,3,"2,377",36.20903,-86.63382,Coming soon,https://www.zillow.com/homedetails/8105-Bonnafair-Dr-Hermitage-TN-37076/41091544_zpid/,06-23-2022_21:37:39
+915 Debow St,Old Hickory,TN,37138,"$424,900",3,2,"1,300",36.260956,-86.64879,Coming soon,https://www.zillow.com/homedetails/915-Debow-St-Old-Hickory-TN-37138/41061384_zpid/,06-23-2022_21:37:39
+609 Bell Trace Cir,Antioch,TN,37013,"$349,900",3,2,"1,446",36.041412,-86.671196,Coming soon,https://www.zillow.com/homedetails/609-Bell-Trace-Cir-Antioch-TN-37013/41199564_zpid/,06-23-2022_21:37:39
+713 McPherson Dr,Nashville,TN,37221,"$299,000",3,2,"1,092",36.06164,-86.934235,Coming soon,https://www.zillow.com/homedetails/713-McPherson-Dr-Nashville-TN-37221/81061840_zpid/,06-23-2022_21:37:39
+602 McPherson Ct S,Nashville,TN,37221,"$299,000",3,2,"1,092",36.061592,-86.93426,Coming soon,https://www.zillow.com/homedetails/602-McPherson-Ct-S-Nashville-TN-37221/81065648_zpid/,06-23-2022_21:37:39
+5613 Dory Dr,Antioch,TN,37013,"$360,000",3,2,"1,664",36.066566,-86.58219,Coming soon,https://www.zillow.com/homedetails/5613-Dory-Dr-Antioch-TN-37013/71268844_zpid/,06-23-2022_21:37:39
+103 Dinwiddie Ct,Madison,TN,37115,"$387,000",3,2,"1,900",36.28469,-86.70006,Coming soon,https://www.zillow.com/homedetails/103-Dinwiddie-Ct-Madison-TN-37115/41055253_zpid/,06-23-2022_21:37:39
+610 Poplar Valley Ct,Nashville,TN,37221,"$384,900",3,3,"2,250",36.07404,-86.979744,Coming soon,https://www.zillow.com/homedetails/610-Poplar-Valley-Ct-Nashville-TN-37221/41167685_zpid/,06-23-2022_21:37:39
+4410 Lone Oak Rd,Nashville,TN,37215,"$1,200,000",4,4,"3,093",36.095028,-86.807625,House for sale,https://www.zillow.com/homedetails/4410-Lone-Oak-Rd-Nashville-TN-37215/108785644_zpid/,06-23-2022_21:37:39
+1509 Sprucedale Dr,Antioch,TN,37013,"$279,000",2,3,"1,104",36.035786,-86.6171,Townhouse for sale,https://www.zillow.com/homedetails/1509-Sprucedale-Dr-Antioch-TN-37013/108790205_zpid/,06-23-2022_21:37:39
+4100A Wyoming Ave,Nashville,TN,37209,"$899,900",4,4,"2,445",36.146,-86.83508,House for sale,https://www.zillow.com/homedetails/4100A-Wyoming-Ave-Nashville-TN-37209/124892736_zpid/,06-23-2022_21:37:39
+1212 Laurel St APT 1013,Nashville,TN,37203,"$1,325,000",2,2,"1,172",36.153484,-86.786125,Condo for sale,https://www.zillow.com/homedetails/1212-Laurel-St-APT-1013-Nashville-TN-37203/124894018_zpid/,06-23-2022_21:37:39
+1702 15th Ave S #C,Nashville,TN,37212,"$999,000",4,3,"2,396",36.137825,-86.791275,House for sale,https://www.zillow.com/homedetails/1702-15th-Ave-S-C-Nashville-TN-37212/124903619_zpid/,06-23-2022_21:37:39
+3312 Harriet Park Dr,Nashville,TN,37211,"$690,000",3,3,"2,466",36.024727,-86.73868,House for sale,https://www.zillow.com/homedetails/3312-Harriet-Park-Dr-Nashville-TN-37211/125934689_zpid/,06-23-2022_21:37:39
+611 Hamilton Xing,Antioch,TN,37013,"$335,990",2,3,"1,464",,,New construction,https://www.zillow.com/homedetails/611-Hamilton-Xing-Antioch-TN-37013/2062661860_zpid/,06-23-2022_21:37:39
+0 Walker Ln,Nashville,TN,37207,"$879,900",,,,,,Lot / Land for sale,https://www.zillow.com/homedetails/0-Walker-Ln-Nashville-TN-37207/2062661888_zpid/,06-23-2022_21:37:39
+605 Hamilton Xing,Antioch,TN,37013,"$335,990",2,3,"1,464",,,New construction,https://www.zillow.com/homedetails/605-Hamilton-Xing-Antioch-TN-37013/2062661889_zpid/,06-23-2022_21:37:39
+5007 Ruskin Ave,Nashville,TN,37216,"$360,000",3,1,"1,090",36.23389,-86.71976,House for sale,https://www.zillow.com/homedetails/5007-Ruskin-Ave-Nashville-TN-37216/41074935_zpid/,06-23-2022_21:37:39
+3814 Hilltop Ave,Nashville,TN,37216,"$584,000",3,2,"1,754",36.217636,-86.73359,House for sale,https://www.zillow.com/homedetails/3814-Hilltop-Ave-Nashville-TN-37216/41076477_zpid/,06-23-2022_21:37:39
+3924 Burrus St,Nashville,TN,37216,"$499,000",3,1,"1,255",36.219166,-86.73103,House for sale,https://www.zillow.com/homedetails/3924-Burrus-St-Nashville-TN-37216/41076592_zpid/,06-23-2022_21:37:39
+1317 Cardinal Ave,Nashville,TN,37216,"$445,000",2,1,858,36.21927,-86.71464,House for sale,https://www.zillow.com/homedetails/1317-Cardinal-Ave-Nashville-TN-37216/41076974_zpid/,06-23-2022_21:37:39
+535 Menees Ln,Madison,TN,37115,"$1,280,000",4,5,"4,154",36.218296,-86.662254,House for sale,https://www.zillow.com/homedetails/535-Menees-Ln-Madison-TN-37115/41078050_zpid/,06-23-2022_21:37:39
+418 Hunters Pl,Hermitage,TN,37076,"$335,000",2,2,"1,883",36.221184,-86.59707,Condo for sale,https://www.zillow.com/homedetails/418-Hunters-Pl-Hermitage-TN-37076/41079891_zpid/,06-23-2022_21:37:39
+2004 Rivercliff Dr,Nashville,TN,37218,"$1,500,000",5,4,"3,897",36.191223,-86.82913,House for sale,https://www.zillow.com/homedetails/2004-Rivercliff-Dr-Nashville-TN-37218/41082460_zpid/,06-23-2022_21:37:39
+1307 Greenfield Ave,Nashville,TN,37216,"$799,900",4,3,"2,002",36.209927,-86.72444,House for sale,https://www.zillow.com/homedetails/1307-Greenfield-Ave-Nashville-TN-37216/41085581_zpid/,06-23-2022_21:37:39
+1934 Valley Park Dr,Nashville,TN,37216,"$374,900",2,1,"1,100",36.196316,-86.70968,House for sale,https://www.zillow.com/homedetails/1934-Valley-Park-Dr-Nashville-TN-37216/41090928_zpid/,06-23-2022_21:37:39
+401 Leisure Ln,Antioch,TN,37013,"$229,900",3,2,"1,481",36.04232,-86.67171,Townhouse for sale,https://www.zillow.com/homedetails/401-Leisure-Ln-Antioch-TN-37013/41199443_zpid/,06-23-2022_21:37:39
+9418 Highway 100,Nashville,TN,37221,"$499,900",3,2,"1,696",36.01701,-87.033005,House for sale,https://www.zillow.com/homedetails/9418-Highway-100-Nashville-TN-37221/41200787_zpid/,06-23-2022_21:37:39
+509 Danville Point,Brentwood,TN,37027,"$769,900",4,3,"2,968",36.037952,-86.75893,House for sale,https://www.zillow.com/homedetails/509-Danville-Point-Brentwood-TN-37027/41201548_zpid/,06-23-2022_21:37:39
+913 S Woodstone Ln,Nashville,TN,37211,"$515,000",3,2,"1,947",36.03395,-86.72573,House for sale,https://www.zillow.com/homedetails/913-S-Woodstone-Ln-Nashville-TN-37211/41202445_zpid/,06-23-2022_21:37:39
+2877 Call Hill Rd,Nashville,TN,37211,"$439,900",3,2,"1,513",36.018066,-86.72311,House for sale,https://www.zillow.com/homedetails/2877-Call-Hill-Rd-Nashville-TN-37211/41203786_zpid/,06-23-2022_21:37:39
+5020 Singing Hills Dr,Antioch,TN,37013,"$389,900",3,2,"1,858",36.033012,-86.58215,House for sale,https://www.zillow.com/homedetails/5020-Singing-Hills-Dr-Antioch-TN-37013/41205375_zpid/,06-23-2022_21:37:39
+1603 Knight Ct,Ridgetop,TN,37073,"$475,000",4,4,"2,086",36.39818,-86.76168,House for sale,https://www.zillow.com/homedetails/1603-Knight-Ct-Ridgetop-TN-37073/42016096_zpid/,06-23-2022_21:37:39
+8024 Boone Trce,Nashville,TN,37221,"$535,000",3,2,"2,083",36.087776,-87.01355,House for sale,https://www.zillow.com/homedetails/8024-Boone-Trce-Nashville-TN-37221/54859707_zpid/,06-23-2022_21:37:39
+2742 Jones Ave,Nashville,TN,37207,"$400,000",3,1,"1,016",36.21742,-86.75634,House for sale,https://www.zillow.com/homedetails/2742-Jones-Ave-Nashville-TN-37207/55294589_zpid/,06-23-2022_21:37:39
+508 Elaine Dr,Nashville,TN,37211,"$539,999",3,2,"1,630",36.082478,-86.74118,Coming soon,https://www.zillow.com/homedetails/508-Elaine-Dr-Nashville-TN-37211/41163524_zpid/,06-23-2022_21:37:39
+7812 River Fork Dr,Nashville,TN,37221,"$765,000",4,4,"3,208",36.062508,-86.9756,Coming soon,https://www.zillow.com/homedetails/7812-River-Fork-Dr-Nashville-TN-37221/41168811_zpid/,06-23-2022_21:37:39
+2977 Greer Rd,Goodlettsville,TN,37072,"$1,150,000",3,3,"2,642",36.36117,-86.77913,Coming soon,https://www.zillow.com/homedetails/2977-Greer-Rd-Goodlettsville-TN-37072/307238962_zpid/,06-23-2022_21:37:39
+323 Huntington Ridge Dr,Nashville,TN,37211,"$320,000",3,2,"1,346",36.050003,-86.727875,Coming soon,https://www.zillow.com/homedetails/323-Huntington-Ridge-Dr-Nashville-TN-37211/41195723_zpid/,06-23-2022_21:37:39
+2031 Neelys Bend Rd,Madison,TN,37115,"$1,250,000",4,5,"4,834",36.20688,-86.66077,Coming soon,https://www.zillow.com/homedetails/2031-Neelys-Bend-Rd-Madison-TN-37115/118551975_zpid/,06-23-2022_21:37:39
+101 Laura Ave,Old Hickory,TN,37138,"$524,900",4,4,"2,539",36.23457,-86.63215,Coming soon,https://www.zillow.com/homedetails/101-Laura-Ave-Old-Hickory-TN-37138/41078248_zpid/,06-23-2022_21:37:39
+1211B Keller Ave,Nashville,TN,37216,"$675,000",3,3,"2,041",36.203587,-86.73355,Coming soon,https://www.zillow.com/homedetails/1211B-Keller-Ave-Nashville-TN-37216/307238033_zpid/,06-23-2022_21:37:39
+116 31st Ave N APT 306,Nashville,TN,37203,"$360,000",1,2,"1,030",36.143806,-86.816154,Coming soon,https://www.zillow.com/homedetails/116-31st-Ave-N-APT-306-Nashville-TN-37203/59887821_zpid/,06-23-2022_21:37:39
+238 Ridgeway Dr,Nashville,TN,37214,"$375,000",3,1,"1,129",36.163994,-86.679886,Coming soon,https://www.zillow.com/homedetails/238-Ridgeway-Dr-Nashville-TN-37214/41119632_zpid/,06-23-2022_21:37:39
+1725 S Hamilton Rd,Nashville,TN,37218,"$649,900",4,2,"2,200",36.190216,-86.83512,House for sale,https://www.zillow.com/homedetails/1725-S-Hamilton-Rd-Nashville-TN-37218/41095318_zpid/,06-23-2022_21:37:39
+2312 Seifried St,Nashville,TN,37208,"$480,000",3,3,"1,471",36.18253,-86.81555,House for sale,https://www.zillow.com/homedetails/2312-Seifried-St-Nashville-TN-37208/41096757_zpid/,06-23-2022_21:37:39
+124 Creighton Ave,Nashville,TN,37206,"$699,900",3,4,"2,326",36.19112,-86.73143,House for sale,https://www.zillow.com/homedetails/124-Creighton-Ave-Nashville-TN-37206/41102267_zpid/,06-23-2022_21:37:39
+2216 Mecca Dr,Nashville,TN,37214,"$455,000",3,1,"1,360",36.1782,-86.69092,House for sale,https://www.zillow.com/homedetails/2216-Mecca-Dr-Nashville-TN-37214/41106875_zpid/,06-23-2022_21:37:39
+2430 Maplecrest Dr,Nashville,TN,37214,"$465,000",3,2,"1,538",36.176884,-86.67899,House for sale,https://www.zillow.com/homedetails/2430-Maplecrest-Dr-Nashville-TN-37214/41107131_zpid/,06-23-2022_21:37:39
+800 28th Ave N,Nashville,TN,37208,"$290,000",2,2,"1,188",36.160347,-86.81865,Multi-family home for sale,https://www.zillow.com/homedetails/800-28th-Ave-N-Nashville-TN-37208/41116093_zpid/,06-23-2022_21:37:39
+764 Kent Rd,Nashville,TN,37214,"$349,900",2,2,"1,280",36.15694,-86.66327,Condo for sale,https://www.zillow.com/homedetails/764-Kent-Rd-Nashville-TN-37214/41121387_zpid/,06-23-2022_21:37:39
+4005 Utah Ave,Nashville,TN,37209,"$1,999,000",4,6,"3,654",36.14374,-86.833176,New construction,https://www.zillow.com/homedetails/4005-Utah-Ave-Nashville-TN-37209/41126214_zpid/,06-23-2022_21:37:39
+117 Bowling Ave,Nashville,TN,37205,"$2,599,000",5,6,"4,656",36.138367,-86.827065,New construction,https://www.zillow.com/homedetails/117-Bowling-Ave-Nashville-TN-37205/41128644_zpid/,06-23-2022_21:37:39
+5220 Pennsylvania Ave,Nashville,TN,37209,"$850,000",4,3,"2,666",36.1634,-86.85207,Coming soon,https://www.zillow.com/homedetails/5220-Pennsylvania-Ave-Nashville-TN-37209/124894730_zpid/,06-23-2022_21:37:39
+3852 Priest Lake Dr,Nashville,TN,37217,"$285,000",4,3,"1,776",36.100445,-86.60647,Coming soon,https://www.zillow.com/homedetails/3852-Priest-Lake-Dr-Nashville-TN-37217/41166201_zpid/,06-23-2022_21:37:39
+3108 Knobview Dr,Nashville,TN,37214,"$450,000",3,2,"1,862",36.181225,-86.66987,Coming soon,https://www.zillow.com/homedetails/3108-Knobview-Dr-Nashville-TN-37214/41107988_zpid/,06-23-2022_21:37:39
+1415 Fulton St,Nashville,TN,37206,"$519,000",3,2,924,36.167225,-86.745964,Coming soon,https://www.zillow.com/homedetails/1415-Fulton-St-Nashville-TN-37206/41118075_zpid/,06-23-2022_21:37:39
+817 Colfax Dr,Nashville,TN,37214,"$319,900",3,1,"1,000",36.153366,-86.65858,Coming soon,https://www.zillow.com/homedetails/817-Colfax-Dr-Nashville-TN-37214/41122220_zpid/,06-23-2022_21:37:39
+5508 Brookshire Dr,Nashville,TN,37211,"$795,000",5,4,"3,003",36.02329,-86.74003,Coming soon,https://www.zillow.com/homedetails/5508-Brookshire-Dr-Nashville-TN-37211/55295852_zpid/,06-23-2022_21:37:39
+1523 Douglas Ave,Nashville,TN,37206,"$649,900",3,2,"1,986",36.19223,-86.7376,Coming soon,https://www.zillow.com/homedetails/1523-Douglas-Ave-Nashville-TN-37206/41088789_zpid/,06-23-2022_21:37:39
+8204 Londonberry Rd,Nashville,TN,37221,"$585,000",4,4,"3,145",36.06305,-86.97629,Coming soon,https://www.zillow.com/homedetails/8204-Londonberry-Rd-Nashville-TN-37221/41168807_zpid/,06-23-2022_21:37:39
+1513 Rosebank Ave,Nashville,TN,37206,"$599,900",4,3,"2,113",36.19418,-86.70824,Coming soon,https://www.zillow.com/homedetails/1513-Rosebank-Ave-Nashville-TN-37206/41091033_zpid/,06-23-2022_21:37:39
+2426 Batavia St,Nashville,TN,37208,"$250,000",,,"5,663",36.161606,-86.81363,Lot / Land for sale,https://www.zillow.com/homedetails/2426-Batavia-St-Nashville-TN-37208/41116235_zpid/,06-23-2022_21:37:39
+303 37th Ave N,Nashville,TN,37209,"$1,459,000",4,4,"3,090",36.14963,-86.82848,New construction,https://www.zillow.com/homedetails/303-37th-Ave-N-Nashville-TN-37209/41117044_zpid/,06-23-2022_21:37:39
+3321 Love Cir,Nashville,TN,37212,"$550,000",3,3,"1,749",36.138954,-86.81614,House for sale,https://www.zillow.com/homedetails/3321-Love-Cir-Nashville-TN-37212/41128851_zpid/,06-23-2022_21:37:39
+1929 20th Ave S,Nashville,TN,37212,"$1,795,000",4,4,"4,669",36.133636,-86.800285,House for sale,https://www.zillow.com/homedetails/1929-20th-Ave-S-Nashville-TN-37212/41130186_zpid/,06-23-2022_21:37:39
+3104 Woodlawn Dr,Nashville,TN,37215,"$4,500,000",6,7,"6,863",36.124153,-86.82354,New construction,https://www.zillow.com/homedetails/3104-Woodlawn-Dr-Nashville-TN-37215/41142275_zpid/,06-23-2022_21:37:39
+725 Longhunter Ct,Nashville,TN,37217,"$277,000",3,4,"2,227",36.095173,-86.63847,Townhouse for sale,https://www.zillow.com/homedetails/725-Longhunter-Ct-Nashville-TN-37217/41165172_zpid/,06-23-2022_21:37:39
+348 Blackman Rd,Nashville,TN,37211,"$749,900",4,3,"2,997",36.07499,-86.74902,House for sale,https://www.zillow.com/homedetails/348-Blackman-Rd-Nashville-TN-37211/41177217_zpid/,06-23-2022_21:37:39
+5018 Packard Dr,Nashville,TN,37211,"$659,000",4,4,"2,300",36.06104,-86.70622,House for sale,https://www.zillow.com/homedetails/5018-Packard-Dr-Nashville-TN-37211/41181315_zpid/,06-23-2022_21:37:39
+319 Wiles Ct,Hermitage,TN,37076,"$467,500",3,3,"2,203",36.193966,-86.601715,House for sale,https://www.zillow.com/homedetails/319-Wiles-Ct-Hermitage-TN-37076/71264145_zpid/,06-23-2022_21:37:39
+810 Porter Rd,Nashville,TN,37206,"$900,000",3,2,"2,286",36.18448,-86.73224,House for sale,https://www.zillow.com/homedetails/810-Porter-Rd-Nashville-TN-37206/41103360_zpid/,06-23-2022_21:37:39
+4104 Hunting Dr,Hermitage,TN,37076,"$429,900",4,2,"1,508",36.17996,-86.612595,Multi-family home for sale,https://www.zillow.com/homedetails/4104-Hunting-Dr-Hermitage-TN-37076/41109528_zpid/,06-23-2022_21:37:39
+509 Rockwood Dr,Hermitage,TN,37076,"$393,000",3,2,"1,130",36.17807,-86.6001,House for sale,https://www.zillow.com/homedetails/509-Rockwood-Dr-Hermitage-TN-37076/41109592_zpid/,06-23-2022_21:37:39
+4560 Brooke Valley Dr,Hermitage,TN,37076,"$320,000",4,2,"1,519",36.17734,-86.58656,Multi-family home for sale,https://www.zillow.com/homedetails/4560-Brooke-Valley-Dr-Hermitage-TN-37076/41110696_zpid/,06-23-2022_21:37:39
+4420 Central Valley Dr,Hermitage,TN,37076,"$289,000",4,2,"1,537",36.174656,-86.58584,Multi-family home for sale,https://www.zillow.com/homedetails/4420-Central-Valley-Dr-Hermitage-TN-37076/41110839_zpid/,06-23-2022_21:37:39
+2705 Morena St,Nashville,TN,37208,"$500,000",4,2,"1,296",36.16266,-86.81808,House for sale,https://www.zillow.com/homedetails/2705-Morena-St-Nashville-TN-37208/41115955_zpid/,06-23-2022_21:37:39
+2700 Lakeland Dr,Nashville,TN,37214,"$389,900",3,2,"1,386",36.15595,-86.671265,House for sale,https://www.zillow.com/homedetails/2700-Lakeland-Dr-Nashville-TN-37214/41120308_zpid/,06-23-2022_21:37:39
+6612 Fleetwood Dr,Nashville,TN,37209,"$895,000",2,1,"1,412",36.13503,-86.87878,House for sale,https://www.zillow.com/homedetails/6612-Fleetwood-Dr-Nashville-TN-37209/41124950_zpid/,06-23-2022_21:37:39
+977 Davidson Dr,Nashville,TN,37205,"$649,500",3,2,"1,536",36.12224,-86.90224,House for sale,https://www.zillow.com/homedetails/977-Davidson-Dr-Nashville-TN-37205/41138709_zpid/,06-23-2022_21:37:39
+5668 Hickory Woods Dr,Antioch,TN,37013,"$467,990",5,3,"2,511",36.027153,-86.58603,Coming soon,https://www.zillow.com/homedetails/5668-Hickory-Woods-Dr-Antioch-TN-37013/2062709087_zpid/,06-23-2022_21:37:39
+5672 Hickory Woods Dr,Antioch,TN,37013,"$480,990",4,3,"2,618",36.027153,-86.58603,Coming soon,https://www.zillow.com/homedetails/5672-Hickory-Woods-Dr-Antioch-TN-37013/2062709088_zpid/,06-23-2022_21:37:39
+5653 Hickory Woods Dr,Antioch,TN,37013,"$447,990",3,3,"2,164",,,Coming soon,https://www.zillow.com/homedetails/5653-Hickory-Woods-Dr-Antioch-TN-37013/2062709176_zpid/,06-23-2022_21:37:39
+Aruba Bay Plan,,,1,"$395,990",2,2,"1,153",36.252144,-86.77804,New construction,https://www.zillow.com/community/thornton-grove-1-story/2072809312_zpid/,06-23-2022_21:37:39
+805 Joyce Ln,Nashville,TN,37216,"$350,000",2,1,"1,030",36.23502,-86.73439,Coming soon,https://www.zillow.com/homedetails/805-Joyce-Ln-Nashville-TN-37216/41074593_zpid/,06-23-2022_21:37:39
+The Langford Plan,,,,"$425,990",3,2,"1,740",36.227356,-86.8498,New construction,https://www.zillow.com/community/crossings-at-drakes-branch/2062906539_zpid/,06-23-2022_21:37:39
+Lilac Plan,,,,"$585,000",3,3,"2,222",36.209373,-86.86597,New construction,https://www.zillow.com/community/cato-cottages/2070531495_zpid/,06-23-2022_21:37:39
+1701 Westchester Dr,Nashville,TN,37207,"$60,000",,,,36.254528,-86.77097,Lot / Land for sale,https://www.zillow.com/homedetails/1701-Westchester-Dr-Nashville-TN-37207/108781054_zpid/,06-23-2022_21:37:39
+2740 Sparrowgap Trl,Antioch,TN,37013,"$363,680",3,3,"1,485",36.058887,-86.60869,New construction,https://www.zillow.com/homedetails/2740-Sparrowgap-Trl-Antioch-TN-37013/2062702017_zpid/,06-23-2022_21:37:39
+4701 Rockland Trl,Antioch,TN,37013,"$519,900",4,3,"3,025",36.03342,-86.58672,House for sale,https://www.zillow.com/homedetails/4701-Rockland-Trl-Antioch-TN-37013/81102672_zpid/,06-23-2022_21:37:39
+1706 18th Ave S SUITE 110,Nashville,TN,37212,"$430,000",1,2,808,36.137566,-86.79653,Condo for sale,https://www.zillow.com/homedetails/1706-18th-Ave-S-SUITE-110-Nashville-TN-37212/88978990_zpid/,06-23-2022_21:37:39
+Sydney Plan,,,,"$462,990",4,3,"2,018",36.251827,-86.7687,New construction,https://www.zillow.com/community/skyridge/2065718985_zpid/,06-23-2022_21:37:39
+1723 Underwood St,Nashville,TN,37208,"$665,000",4,3,"2,216",36.173286,-86.80727,Coming soon,https://www.zillow.com/homedetails/1723-Underwood-St-Nashville-TN-37208/41098883_zpid/,06-23-2022_21:37:39
+Bella Plan,,,,"$699,900",4,5,"3,169",36.20809,-86.79011,New construction,https://www.zillow.com/community/proximity/2072831804_zpid/,06-23-2022_21:37:39
+612 Sue Ct,Antioch,TN,37013,"$599,999",6,4,"3,200",36.048744,-86.695786,Coming soon,https://www.zillow.com/homedetails/612-Sue-Ct-Antioch-TN-37013/41198819_zpid/,06-23-2022_21:37:39
+Davidson Plan,,,44,"$815,900",3,4,"3,216",36.16162,-86.84062,New construction,https://www.zillow.com/community/44tenn/2071174353_zpid/,06-23-2022_21:37:39
+3002 Louise Dr,Nashville,TN,37211,"$699,900",4,4,"2,387",36.10729,-86.74717,Coming soon,https://www.zillow.com/homedetails/3002-Louise-Dr-Nashville-TN-37211/41150359_zpid/,06-23-2022_21:37:39
+1401 Bending River Dr,Nashville,TN,37221,"$474,900",3,3,"1,951",36.092182,-87.00962,Coming soon,https://www.zillow.com/homedetails/1401-Bending-River-Dr-Nashville-TN-37221/108766483_zpid/,06-23-2022_21:37:39
+405 Marshall St UNIT 8,Nashville,TN,37207,"$639,900",3,3,"1,718",36.20167,-86.76579,New construction,https://www.zillow.com/homedetails/405-Marshall-St-UNIT-8-Nashville-TN-37207/2062791134_zpid/,06-23-2022_21:37:39
+405 Marshall St UNIT 5,Nashville,TN,37207,"$619,900",2,3,"1,696",36.20167,-86.76579,New construction,https://www.zillow.com/homedetails/405-Marshall-St-UNIT-5-Nashville-TN-37207/2062791219_zpid/,06-23-2022_21:37:39
+405 Marshall St UNIT 2,Nashville,TN,37207,"$774,900",3,4,"2,179",36.20167,-86.76579,New construction,https://www.zillow.com/homedetails/405-Marshall-St-UNIT-2-Nashville-TN-37207/2062791282_zpid/,06-23-2022_21:37:39
+3414A Hopkins St #A,Nashville,TN,37215,"$1,699,000",4,6,"3,626",36.1175,-86.805504,House for sale,https://www.zillow.com/homedetails/3414A-Hopkins-St-A-Nashville-TN-37215/2062857180_zpid/,06-23-2022_21:37:39
+0 Pine Valley Rd,Ashland City,TN,37015,"$380,000",,,,,,Lot / Land for sale,https://www.zillow.com/homedetails/0-Pine-Valley-Rd-Ashland-City-TN-37015/2076143081_zpid/,06-23-2022_21:37:39
+0 Saunders Ave,Nashville,TN,37216,"$250,000",,,,36.237984,-86.73099,Lot / Land for sale,https://www.zillow.com/homedetails/0-Saunders-Ave-Nashville-TN-37216/2086332381_zpid/,06-23-2022_21:37:39
+0 Ashland City Hwy,Nashville,TN,37218,"$1,537,500",,,,,,Lot / Land for sale,https://www.zillow.com/homedetails/0-Ashland-City-Hwy-Nashville-TN-37218/2106777243_zpid/,06-23-2022_21:37:39
+7219 Althorp Way APT L1,Nashville,TN,37211,"$317,000",2,2,"1,162",36.027557,-86.71105,Condo for sale,https://www.zillow.com/homedetails/7219-Althorp-Way-APT-L1-Nashville-TN-37211/2117436027_zpid/,06-23-2022_21:37:39
+68 Twin St,Nashville,TN,37209,"$823,990",3,4,"2,570",36.14614,-86.899895,House for sale,https://www.zillow.com/homedetails/68-Twin-St-Nashville-TN-37209/244633350_zpid/,06-23-2022_21:37:39
+668 McPherson Dr,Nashville,TN,37221,"$449,500",3,3,"2,025",36.06046,-86.93201,House for sale,https://www.zillow.com/homedetails/668-McPherson-Dr-Nashville-TN-37221/41172579_zpid/,06-23-2022_21:37:39
+257 Blackman Rd,Nashville,TN,37211,"$599,900",4,3,"2,835",36.073933,-86.74036,Multi-family home for sale,https://www.zillow.com/homedetails/257-Blackman-Rd-Nashville-TN-37211/41177609_zpid/,06-23-2022_21:37:39
+3316 Milbridge Dr,Antioch,TN,37013,"$359,500",3,2,"1,556",36.084297,-86.58509,House for sale,https://www.zillow.com/homedetails/3316-Milbridge-Dr-Antioch-TN-37013/41188842_zpid/,06-23-2022_21:37:39
+605 Meadow Glen Ct,Nashville,TN,37221,"$700,000",4,3,"2,722",36.033783,-86.964584,House for sale,https://www.zillow.com/homedetails/605-Meadow-Glen-Ct-Nashville-TN-37221/41190414_zpid/,06-23-2022_21:37:39
+663 Harpeth Knoll Rd,Nashville,TN,37221,"$550,000",4,2,"2,447",36.05807,-86.93576,House for sale,https://www.zillow.com/homedetails/663-Harpeth-Knoll-Rd-Nashville-TN-37221/41190866_zpid/,06-23-2022_21:37:39
+505 McMurray Dr,Nashville,TN,37211,"$250,000",3,2,"1,161",36.057774,-86.72226,House for sale,https://www.zillow.com/homedetails/505-McMurray-Dr-Nashville-TN-37211/41194074_zpid/,06-23-2022_21:37:39
+5601 Country Dr APT 212,Nashville,TN,37211,"$320,000",3,3,"1,518",36.04783,-86.7085,Townhouse for sale,https://www.zillow.com/homedetails/5601-Country-Dr-APT-212-Nashville-TN-37211/41198552_zpid/,06-23-2022_21:37:39
+800 Cold Creek Trl,Nashville,TN,37211,"$475,000",3,2,"1,574",36.024765,-86.71825,House for sale,https://www.zillow.com/homedetails/800-Cold-Creek-Trl-Nashville-TN-37211/41203126_zpid/,06-23-2022_21:37:39
+407 Woodmont Hall Pl,Nashville,TN,37205,"$850,000",4,3,"2,572",36.11739,-86.83803,House for sale,https://www.zillow.com/homedetails/407-Woodmont-Hall-Pl-Nashville-TN-37205/63644422_zpid/,06-23-2022_21:37:39
+5129 Ander Dr,Brentwood,TN,37027,"$449,900",4,4,"2,040",36.002865,-86.693756,Townhouse for sale,https://www.zillow.com/homedetails/5129-Ander-Dr-Brentwood-TN-37027/124893409_zpid/,06-23-2022_21:37:39
+1613B Glen Echo Rd,Nashville,TN,37215,"$1,249,990",3,4,"3,107",36.107307,-86.802155,House for sale,https://www.zillow.com/homedetails/1613B-Glen-Echo-Rd-Nashville-TN-37215/124903781_zpid/,06-23-2022_21:37:39
+1233 Hope Village Way,Hermitage,TN,37076,"$353,990",2,3,"1,209",,,New construction,https://www.zillow.com/homedetails/1233-Hope-Village-Way-Hermitage-TN-37076/2062738892_zpid/,06-23-2022_21:37:39
+2713 Sparrowgap Trl,Antioch,TN,37013,"$490,380",5,3,"2,282",,,New construction,https://www.zillow.com/homedetails/2713-Sparrowgap-Trl-Antioch-TN-37013/2062740912_zpid/,06-23-2022_21:37:39
+2124 Postings Poin,Antioch,TN,37013,"$529,990",4,3,"2,468",36.057648,-86.60294,New construction,https://www.zillow.com/homedetails/2124-Postings-Poin-Antioch-TN-37013/2062741417_zpid/,06-23-2022_21:37:39
+313 Becanni Ln,Nashville,TN,37209,"$699,900",3,4,"1,920",36.154602,-86.87412,New construction,https://www.zillow.com/homedetails/313-Becanni-Ln-Nashville-TN-37209/2062744648_zpid/,06-23-2022_21:37:39
+941 Main St #201,Nashville,TN,37206,"$675,000",4,2,"1,250",36.177444,-86.754364,House for sale,https://www.zillow.com/homedetails/941-Main-St-201-Nashville-TN-37206/2062952723_zpid/,06-23-2022_21:37:39
+807A Porter Rd,Nashville,TN,37206,"$1,250,000",5,5,"3,222",36.184006,-86.73196,House for sale,https://www.zillow.com/homedetails/807A-Porter-Rd-Nashville-TN-37206/2091629543_zpid/,06-23-2022_21:37:39
+7234 Althorp Way APT U8,Nashville,TN,37211,"$295,000",2,1,988,36.02721,-86.71236,Condo for sale,https://www.zillow.com/homedetails/7234-Althorp-Way-APT-U8-Nashville-TN-37211/2102891050_zpid/,06-23-2022_21:37:39
+3305 Colby Dr,Nashville,TN,37211,"$625,000",4,2,"2,275",36.09782,-86.72885,House for sale,https://www.zillow.com/homedetails/3305-Colby-Dr-Nashville-TN-37211/41162278_zpid/,06-23-2022_21:37:39
+245 Nunley Dr,Nashville,TN,37211,"$450,000",3,2,"1,984",36.09344,-86.72234,House for sale,https://www.zillow.com/homedetails/245-Nunley-Dr-Nashville-TN-37211/41162545_zpid/,06-23-2022_21:37:39
+116 Windsor Terrace Dr,Nashville,TN,37221,"$499,900",3,3,"1,760",36.077248,-86.910774,Townhouse for sale,https://www.zillow.com/homedetails/116-Windsor-Terrace-Dr-Nashville-TN-37221/41173083_zpid/,06-23-2022_21:37:39
+1302 Tyne Blvd,Nashville,TN,37215,"$1,700,000",3,3,"2,172",36.081463,-86.80924,House for sale,https://www.zillow.com/homedetails/1302-Tyne-Blvd-Nashville-TN-37215/41174130_zpid/,06-23-2022_21:37:39
+5175 Granny White Pike,Nashville,TN,37220,"$1,450,000",4,3,"2,543",36.070976,-86.81164,House for sale,https://www.zillow.com/homedetails/5175-Granny-White-Pike-Nashville-TN-37220/41174386_zpid/,06-23-2022_21:37:39
+589 Highcrest Dr,Nashville,TN,37211,"$489,999",3,2,"2,050",36.064964,-86.73163,House for sale,https://www.zillow.com/homedetails/589-Highcrest-Dr-Nashville-TN-37211/41178678_zpid/,06-23-2022_21:37:39
+8204 W Chase Ct,Nashville,TN,37221,"$1,275,000",5,4,"4,540",36.040886,-86.94872,House for sale,https://www.zillow.com/homedetails/8204-W-Chase-Ct-Nashville-TN-37221/41191207_zpid/,06-23-2022_21:37:39
+5416 Anchorage Dr,Nashville,TN,37220,"$975,000",3,3,"2,700",36.059574,-86.76978,House for sale,https://www.zillow.com/homedetails/5416-Anchorage-Dr-Nashville-TN-37220/41192245_zpid/,06-23-2022_21:37:39
+1203 Clubhouse Ln,Antioch,TN,37013,"$289,900",2,2,"1,466",36.040764,-86.6726,House for sale,https://www.zillow.com/homedetails/1203-Clubhouse-Ln-Antioch-TN-37013/41199313_zpid/,06-23-2022_21:37:39
+2928 Teakwood Dr,Nashville,TN,37214,"$402,000",3,1,950,36.158054,-86.6543,House for sale,https://www.zillow.com/homedetails/2928-Teakwood-Dr-Nashville-TN-37214/41121455_zpid/,06-23-2022_21:37:39
+3183 Parthenon Ave,Nashville,TN,37203,"$750,000",4,1,"1,846",36.145622,-86.82095,House for sale,https://www.zillow.com/homedetails/3183-Parthenon-Ave-Nashville-TN-37203/41128257_zpid/,06-23-2022_21:37:39
+1906 Blair Blvd,Nashville,TN,37212,"$3,250,000",6,6,"6,709",36.130356,-86.79948,New construction,https://www.zillow.com/homedetails/1906-Blair-Blvd-Nashville-TN-37212/41131540_zpid/,06-23-2022_21:37:39
+1101 Archer St,Nashville,TN,37203,"$1,400,000",4,4,"2,208",36.14502,-86.78448,House for sale,https://www.zillow.com/homedetails/1101-Archer-St-Nashville-TN-37203/41132071_zpid/,06-23-2022_21:37:39
+2509 Vaulx Ln,Nashville,TN,37204,"$1,200,000",2,1,904,36.12385,-86.781784,House for sale,https://www.zillow.com/homedetails/2509-Vaulx-Ln-Nashville-TN-37204/41146374_zpid/,06-23-2022_21:37:39
+916 Percy Warner Blvd,Nashville,TN,37205,"$559,000",3,2,"1,775",36.084015,-86.88357,House for sale,https://www.zillow.com/homedetails/916-Percy-Warner-Blvd-Nashville-TN-37205/41155151_zpid/,06-23-2022_21:37:39
+420 Cathy Jo Cir,Nashville,TN,37211,"$374,900",4,4,"1,589",36.095154,-86.72043,Multi-family home for sale,https://www.zillow.com/homedetails/420-Cathy-Jo-Cir-Nashville-TN-37211/41162730_zpid/,06-23-2022_21:37:39
+327 Blackman Rd,Nashville,TN,37211,"$565,000",4,2,"1,920",36.073875,-86.7446,House for sale,https://www.zillow.com/homedetails/327-Blackman-Rd-Nashville-TN-37211/41177416_zpid/,06-23-2022_21:37:39
+97 High Lea Rd,Brentwood,TN,37027,"$1,850,000",5,6,"4,648",36.04049,-86.81949,House for sale,https://www.zillow.com/homedetails/97-High-Lea-Rd-Brentwood-TN-37027/41191809_zpid/,06-23-2022_21:37:39
+1540 Sunbeam Dr,Antioch,TN,37013,"$455,000",3,3,"1,930",36.02025,-86.67047,House for sale,https://www.zillow.com/homedetails/1540-Sunbeam-Dr-Antioch-TN-37013/121389581_zpid/,06-23-2022_21:37:39
+5536 Prada Dr,Brentwood,TN,37027,"$475,000",3,4,"1,920",36.002567,-86.69328,House for sale,https://www.zillow.com/homedetails/5536-Prada-Dr-Brentwood-TN-37027/124894023_zpid/,06-23-2022_21:37:39
+2207 24th Ave N #D,Nashville,TN,37208,"$529,900",3,3,"1,784",,,New construction,https://www.zillow.com/homedetails/2207-24th-Ave-N-D-Nashville-TN-37208/2062784768_zpid/,06-23-2022_21:37:39
+5636 Hickory Woods Dr,Antioch,TN,37013,"$477,990",4,3,"2,618",36.027153,-86.58603,New construction,https://www.zillow.com/homedetails/5636-Hickory-Woods-Dr-Antioch-TN-37013/2062791243_zpid/,06-23-2022_21:37:39
+5656 Hickory Woods Dr,Antioch,TN,37013,"$467,990",5,3,"2,511",36.03176,-86.57787,New construction,https://www.zillow.com/homedetails/5656-Hickory-Woods-Dr-Antioch-TN-37013/2062791373_zpid/,06-23-2022_21:37:39
+5637 Hickory Woods Dr,Antioch,TN,37013,"$444,990",3,3,"2,164",36.03176,-86.57787,New construction,https://www.zillow.com/homedetails/5637-Hickory-Woods-Dr-Antioch-TN-37013/2062791385_zpid/,06-23-2022_21:37:39
+102 Duke St #14,Nashville,TN,37207,"$379,900",1,2,996,36.207115,-86.76708,New construction,https://www.zillow.com/homedetails/102-Duke-St-14-Nashville-TN-37207/2062792402_zpid/,06-23-2022_21:37:39
+102 Duke St #13,Nashville,TN,37207,"$379,900",1,2,996,,,New construction,https://www.zillow.com/homedetails/102-Duke-St-13-Nashville-TN-37207/2062792555_zpid/,06-23-2022_21:37:39
+102 Duke St #10,Nashville,TN,37207,"$379,900",1,2,996,36.207115,-86.76708,New construction,https://www.zillow.com/homedetails/102-Duke-St-10-Nashville-TN-37207/2062792635_zpid/,06-23-2022_21:37:39
+2025 Jones Cir,Nashville,TN,37207,"$464,900",3,2,"1,086",36.208088,-86.75835,House for sale,https://www.zillow.com/homedetails/2025-Jones-Cir-Nashville-TN-37207/41083413_zpid/,06-23-2022_21:37:39
+904 Forest Dl,Hermitage,TN,37076,"$320,000",3,1,"1,320",36.153606,-86.589836,House for sale,https://www.zillow.com/homedetails/904-Forest-Dl-Hermitage-TN-37076/41091437_zpid/,06-23-2022_21:37:39
+1510 Woodland St,Nashville,TN,37206,"$1,150,000",4,4,"2,336",36.17679,-86.743095,House for sale,https://www.zillow.com/homedetails/1510-Woodland-St-Nashville-TN-37206/41104467_zpid/,06-23-2022_21:37:39
+The Radnor Plan,,,,"$537,990",2,2,"1,913",36.195103,-86.63733,New construction,https://www.zillow.com/community/parkhaven/2073572049_zpid/,06-23-2022_21:37:39
+3052 Barnes Bend Dr,Antioch,TN,37013,"$495,000",3,2,"1,866",36.024673,-86.69752,House for sale,https://www.zillow.com/homedetails/3052-Barnes-Bend-Dr-Antioch-TN-37013/108730697_zpid/,06-23-2022_21:37:39
+439 Portsdale Dr,Brentwood,TN,37027,"$419,900",2,4,"1,692",36.00414,-86.69171,New construction,https://www.zillow.com/homedetails/439-Portsdale-Dr-Brentwood-TN-37027/2062798895_zpid/,06-23-2022_21:37:39
+464 Portsdale Dr,Brentwood,TN,37027,"$434,900",2,4,"1,810",36.00414,-86.69171,New construction,https://www.zillow.com/homedetails/464-Portsdale-Dr-Brentwood-TN-37027/2062798932_zpid/,06-23-2022_21:37:39
+443A Annex Ave,Nashville,TN,37209,"$725,000",3,3,"2,354",36.148285,-86.88683,House for sale,https://www.zillow.com/homedetails/443A-Annex-Ave-Nashville-TN-37209/2087760418_zpid/,06-23-2022_21:37:39
+1404 Wedgewood Ave,Nashville,TN,37212,"$1,499,999",3,4,"2,700",36.136154,-86.79101,Townhouse for sale,https://www.zillow.com/homedetails/1404-Wedgewood-Ave-Nashville-TN-37212/248422688_zpid/,06-23-2022_21:37:39
+456 Ewing Ln,Nashville,TN,37207,"$479,500",3,2,"1,850",36.2326,-86.78982,House for sale,https://www.zillow.com/homedetails/456-Ewing-Ln-Nashville-TN-37207/41072843_zpid/,06-23-2022_21:37:39
+2902 Morningside Dr,Nashville,TN,37207,"$349,500",2,2,865,36.223713,-86.75848,House for sale,https://www.zillow.com/homedetails/2902-Morningside-Dr-Nashville-TN-37207/41073836_zpid/,06-23-2022_21:37:39
+1685 Aaronwood Dr,Old Hickory,TN,37138,"$389,900",3,2,"1,401",36.217655,-86.6324,House for sale,https://www.zillow.com/homedetails/1685-Aaronwood-Dr-Old-Hickory-TN-37138/41078520_zpid/,06-23-2022_21:37:39
+1218 Chester Ave,Nashville,TN,37206,"$550,000",5,2,"2,120",36.194805,-86.73819,House for sale,https://www.zillow.com/homedetails/1218-Chester-Ave-Nashville-TN-37206/41088702_zpid/,06-23-2022_21:37:39
+8548 Cub Creek Rd,Nashville,TN,37209,"$3,250,000",4,5,"4,507",36.185333,-86.98036,House for sale,https://www.zillow.com/homedetails/8548-Cub-Creek-Rd-Nashville-TN-37209/41095131_zpid/,06-23-2022_21:37:39
+6724 Greeley Dr,Nashville,TN,37205,"$1,000,000",3,2,"1,715",36.131153,-86.881546,House for sale,https://www.zillow.com/homedetails/6724-Greeley-Dr-Nashville-TN-37205/41124992_zpid/,06-23-2022_21:37:39
+885 Belton Dr,Nashville,TN,37205,"$895,000",4,2,"2,500",36.125774,-86.900085,House for sale,https://www.zillow.com/homedetails/885-Belton-Dr-Nashville-TN-37205/41125141_zpid/,06-23-2022_21:37:39
+6428 Fleetwood Dr,Nashville,TN,37209,"$1,000,000",5,3,"3,346",36.141586,-86.87345,House for sale,https://www.zillow.com/homedetails/6428-Fleetwood-Dr-Nashville-TN-37209/41126348_zpid/,06-23-2022_21:37:39
+818 Neartop Dr,Nashville,TN,37205,"$799,900",3,2,"2,234",36.132896,-86.85895,House for sale,https://www.zillow.com/homedetails/818-Neartop-Dr-Nashville-TN-37205/41127168_zpid/,06-23-2022_21:37:39
+1003 W Trinity Ln #2,Nashville,TN,37218,"$1,399,900",4,4,"2,504",36.206306,-86.81183,New construction,https://www.zillow.com/homedetails/1003-W-Trinity-Ln-2-Nashville-TN-37218/2062923984_zpid/,06-23-2022_21:37:39
+1003 W Trinity Ln #6,Nashville,TN,37218,"$1,324,900",4,4,"2,504",,,New construction,https://www.zillow.com/homedetails/1003-W-Trinity-Ln-6-Nashville-TN-37218/2062924222_zpid/,06-23-2022_21:37:39
+1003 W Trinity Ln #4,Nashville,TN,37218,"$1,399,900",4,4,"2,504",,,New construction,https://www.zillow.com/homedetails/1003-W-Trinity-Ln-4-Nashville-TN-37218/2062924224_zpid/,06-23-2022_21:37:39
+1003 W Trinity Ln #9,Nashville,TN,37218,"$1,399,900",4,4,"2,504",36.206306,-86.81183,New construction,https://www.zillow.com/homedetails/1003-W-Trinity-Ln-9-Nashville-TN-37218/2062924232_zpid/,06-23-2022_21:37:39
+1003 W Trinity Ln #8,Nashville,TN,37218,"$1,324,900",4,4,"2,504",36.206306,-86.81183,New construction,https://www.zillow.com/homedetails/1003-W-Trinity-Ln-8-Nashville-TN-37218/2062924233_zpid/,06-23-2022_21:37:39
+1003 W Trinity Ln #7,Nashville,TN,37218,"$1,324,900",4,4,"2,504",36.206306,-86.81183,New construction,https://www.zillow.com/homedetails/1003-W-Trinity-Ln-7-Nashville-TN-37218/2062924234_zpid/,06-23-2022_21:37:39
+1003 W Trinity Ln #10,Nashville,TN,37218,"$1,399,900",4,4,"2,504",36.206306,-86.81183,New construction,https://www.zillow.com/homedetails/1003-W-Trinity-Ln-10-Nashville-TN-37218/2062924369_zpid/,06-23-2022_21:37:39
+1003 W Trinity Ln #11,Nashville,TN,37218,"$1,399,900",4,4,"2,504",36.206306,-86.81183,New construction,https://www.zillow.com/homedetails/1003-W-Trinity-Ln-11-Nashville-TN-37218/2062924370_zpid/,06-23-2022_21:37:39
+1003 W Trinity Ln #12,Nashville,TN,37218,"$1,399,900",4,4,"2,504",,,New construction,https://www.zillow.com/homedetails/1003-W-Trinity-Ln-12-Nashville-TN-37218/2062924490_zpid/,06-23-2022_21:37:39

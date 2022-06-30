@@ -1,0 +1,181 @@
+address_street,city,state,zip_code,price,beds,baths,area_sq_ft,latitude,longitude,status_text,listing_id,list_url,date_scraped
+2510 S Blue Island Ave,Chicago,IL,60608,"$499,900",5,3,--,41.847115,-87.68026,New,2062899956,https://www.zillow.com/homedetails/2510-S-Blue-Island-Ave-Chicago-IL-60608/2062899956_zpid/,06-10-2022_19:19:22
+5433 S Damen Ave,Chicago,IL,60609,"$299,900",6,2,--,41.79477,-87.673935,New,2093954463,https://www.zillow.com/homedetails/5433-S-Damen-Ave-Chicago-IL-60609/2093954463_zpid/,06-10-2022_19:19:22
+3619 W Byron St APT 1,Chicago,IL,60618,"$225,000",2,1,800,41.951797,-87.71863,New,2075760283,https://www.zillow.com/homedetails/3619-W-Byron-St-APT-1-Chicago-IL-60618/2075760283_zpid/,06-10-2022_19:19:22
+747 N Hoyne Ave,Chicago,IL,60612,"$470,000",5,2,--,41.89547,-87.67928,Price Change,2118405221,https://www.zillow.com/homedetails/747-N-Hoyne-Ave-Chicago-IL-60612/2118405221_zpid/,06-10-2022_19:19:22
+1538 W 19th St,Chicago,IL,60608,"$779,000",8,3,--,41.85626,-87.66526,New,2099170648,https://www.zillow.com/homedetails/1538-W-19th-St-Chicago-IL-60608/2099170648_zpid/,06-10-2022_19:19:22
+4149 S Rockwell St,Chicago,IL,60632,"$330,000",5,2,"1,045",41.81782,-87.68924,New,3913570,https://www.zillow.com/homedetails/4149-S-Rockwell-St-Chicago-IL-60632/3913570_zpid/,06-10-2022_19:19:22
+450 E Waterside Dr UNIT 301,Chicago,IL,60601,"$639,000",2,2,"1,153",41.887093,-87.61538,New,89923055,https://www.zillow.com/homedetails/450-E-Waterside-Dr-UNIT-301-Chicago-IL-60601/89923055_zpid/,06-10-2022_19:19:22
+8518 S Exchange Ave,Chicago,IL,60617,"$168,900",6,2,"1,800",41.740395,-87.553055,New,4028458,https://www.zillow.com/homedetails/8518-S-Exchange-Ave-Chicago-IL-60617/4028458_zpid/,06-10-2022_19:19:22
+2715 W Bryn Mawr Ave,Chicago,IL,60659,"$789,000",5,5,"4,200",41.982864,-87.69741,New,80828891,https://www.zillow.com/homedetails/2715-W-Bryn-Mawr-Ave-Chicago-IL-60659/80828891_zpid/,06-10-2022_19:19:22
+4829 S Prairie Ave APT 4,Chicago,IL,60615,"$200,000",3,3,--,41.806705,-87.61908,New,80826655,https://www.zillow.com/homedetails/4829-S-Prairie-Ave-APT-4-Chicago-IL-60615/80826655_zpid/,06-10-2022_19:19:22
+6554 N Ridge Blvd #2,Chicago,IL,60626,"$199,900",2,1,--,42.00147,-87.679375,New,3572990,https://www.zillow.com/homedetails/6554-N-Ridge-Blvd-2-Chicago-IL-60626/3572990_zpid/,06-10-2022_19:19:22
+1000 E 53rd St UNIT 405,Chicago,IL,60615,"$260,000",2,2,--,41.800056,-87.60134,New,65576246,https://www.zillow.com/homedetails/1000-E-53rd-St-UNIT-405-Chicago-IL-60615/65576246_zpid/,06-10-2022_19:19:22
+3832 S Emerald Ave,Chicago,IL,60609,"$799,900",4,4,"3,200",41.824253,-87.64508,New,253276035,https://www.zillow.com/homedetails/3832-S-Emerald-Ave-Chicago-IL-60609/253276035_zpid/,06-10-2022_19:19:22
+3550 N Lake Shore Dr APT 1706,Chicago,IL,60657,"$257,500",1,1,840,41.947845,-87.64352,New,3716211,https://www.zillow.com/homedetails/3550-N-Lake-Shore-Dr-APT-1706-Chicago-IL-60657/3716211_zpid/,06-10-2022_19:19:22
+2650 N Lakeview Ave APT 3303,Chicago,IL,60614,"$169,950",,1,600,41.931076,-87.63987,New,3726451,https://www.zillow.com/homedetails/2650-N-Lakeview-Ave-APT-3303-Chicago-IL-60614/3726451_zpid/,06-10-2022_19:19:22
+3726 W Polk St #3,Chicago,IL,60624,"$99,900",4,2,"1,300",41.87113,-87.71932,New,58363380,https://www.zillow.com/homedetails/3726-W-Polk-St-3-Chicago-IL-60624/58363380_zpid/,06-10-2022_19:19:22
+3115 N Nashville Ave APT 3W,Chicago,IL,60634,"$139,900",2,1,875,41.937042,-87.79049,New,63693394,https://www.zillow.com/homedetails/3115-N-Nashville-Ave-APT-3W-Chicago-IL-60634/63693394_zpid/,06-10-2022_19:19:22
+201 N Westshore Dr APT 1908,Chicago,IL,60601,"$555,000",2,3,"1,295",41.88616,-87.61612,New,70471210,https://www.zillow.com/homedetails/201-N-Westshore-Dr-APT-1908-Chicago-IL-60601/70471210_zpid/,06-10-2022_19:19:22
+1825 N Sedgwick St #1N,Chicago,IL,60614,"$1,875,000",4,4,--,,,New,2062908956,https://www.zillow.com/homedetails/1825-N-Sedgwick-St-1N-Chicago-IL-60614/2062908956_zpid/,06-10-2022_19:19:22
+7658 S King Dr,Chicago,IL,60619,"$260,000",4,3,"1,800",41.754887,-87.615486,New,4005667,https://www.zillow.com/homedetails/7658-S-King-Dr-Chicago-IL-60619/4005667_zpid/,06-10-2022_19:19:22
+2915 E 80th St,Chicago,IL,60617,"$228,000",3,2,"1,740",41.74993,-87.55323,New,4027194,https://www.zillow.com/homedetails/2915-E-80th-St-Chicago-IL-60617/4027194_zpid/,06-10-2022_19:19:22
+1825 N Sedgwick St #2N,Chicago,IL,60614,"$1,800,000",3,3,--,41.91552,-87.638374,New,2062909039,https://www.zillow.com/homedetails/1825-N-Sedgwick-St-2N-Chicago-IL-60614/2062909039_zpid/,06-10-2022_19:19:22
+2300 W Granville Ave APT 1S,Chicago,IL,60659,$0,2,1,750,41.99436,-87.68767,Auction,54533214,https://www.zillow.com/homedetails/2300-W-Granville-Ave-APT-1S-Chicago-IL-60659/54533214_zpid/,06-10-2022_19:19:22
+1345 S Wabash Ave UNIT 801,Chicago,IL,60605,"$348,000",2,2,959,41.86498,-87.62595,New,2082848572,https://www.zillow.com/homedetails/1345-S-Wabash-Ave-UNIT-801-Chicago-IL-60605/2082848572_zpid/,06-10-2022_19:19:22
+9347 S King Dr,Chicago,IL,60619,"$285,000",3,2,"1,251",41.724163,-87.61385,New,4117784,https://www.zillow.com/homedetails/9347-S-King-Dr-Chicago-IL-60619/4117784_zpid/,06-10-2022_19:19:22
+14 W Superior St #5702,Chicago,IL,60654,"$4,200,000",3,4,"3,218",41.89618,-87.628815,New,2062909129,https://www.zillow.com/homedetails/14-W-Superior-St-5702-Chicago-IL-60654/2062909129_zpid/,06-10-2022_19:19:22
+500 S Clinton St APT 841,Chicago,IL,60607,"$339,000",2,2,"1,309",41.875015,-87.64117,New,62013488,https://www.zillow.com/homedetails/500-S-Clinton-St-APT-841-Chicago-IL-60607/62013488_zpid/,06-10-2022_19:19:22
+33 E Cedar St APT 17D,Chicago,IL,60611,"$209,000",1,1,800,41.90219,-87.62698,New,3847332,https://www.zillow.com/homedetails/33-E-Cedar-St-APT-17D-Chicago-IL-60611/3847332_zpid/,06-10-2022_19:19:22
+12901 S Manistee Ave,Chicago,IL,60633,"$239,000",3,2,"1,220",41.66087,-87.55528,New,4174552,https://www.zillow.com/homedetails/12901-S-Manistee-Ave-Chicago-IL-60633/4174552_zpid/,06-10-2022_19:19:22
+8023 S Kilpatrick Ave,Chicago,IL,60652,"$265,000",3,2,"1,500",41.74688,-87.73774,New,3970800,https://www.zillow.com/homedetails/8023-S-Kilpatrick-Ave-Chicago-IL-60652/3970800_zpid/,06-10-2022_19:19:22
+1145 W 17th St,Chicago,IL,60608,"$299,999",5,2,--,41.858616,-87.65516,New,2084484611,https://www.zillow.com/homedetails/1145-W-17th-St-Chicago-IL-60608/2084484611_zpid/,06-10-2022_19:19:22
+5608 S McVicker Ave,Chicago,IL,60638,"$389,000",3,2,"2,058",41.790306,-87.773544,New,3940735,https://www.zillow.com/homedetails/5608-S-McVicker-Ave-Chicago-IL-60638/3940735_zpid/,06-10-2022_19:19:22
+8054 S Marquette Ave,Chicago,IL,60617,"$124,900",4,2,"1,100",41.74844,-87.559235,New,4026715,https://www.zillow.com/homedetails/8054-S-Marquette-Ave-Chicago-IL-60617/4026715_zpid/,06-10-2022_19:19:22
+41 E 8th St APT 1403,Chicago,IL,60605,"$379,900",2,2,"1,310",41.871723,-87.626656,New,65569395,https://www.zillow.com/homedetails/41-E-8th-St-APT-1403-Chicago-IL-60605/65569395_zpid/,06-10-2022_19:19:22
+5741 S Calumet Ave APT 2S,Chicago,IL,60637,"$175,000",3,2,"1,300",41.79037,-87.6173,New,80835559,https://www.zillow.com/homedetails/5741-S-Calumet-Ave-APT-2S-Chicago-IL-60637/80835559_zpid/,06-10-2022_19:19:22
+2114 W 112th St,Chicago,IL,60643,"$389,900",5,2,"1,871",41.69016,-87.674385,New,4147972,https://www.zillow.com/homedetails/2114-W-112th-St-Chicago-IL-60643/4147972_zpid/,06-10-2022_19:19:22
+8641 S Constance Ave,Chicago,IL,60617,"$349,900",5,4,"1,773",41.737625,-87.57906,New,2069121685,https://www.zillow.com/homedetails/8641-S-Constance-Ave-Chicago-IL-60617/2069121685_zpid/,06-10-2022_19:19:22
+8401 S Karlov Ave,Chicago,IL,60652,"$289,900",4,2,"1,482",41.74017,-87.72369,New,3973621,https://www.zillow.com/homedetails/8401-S-Karlov-Ave-Chicago-IL-60652/3973621_zpid/,06-10-2022_19:19:22
+8606 S Keeler Ave,Chicago,IL,60652,"$315,999",3,2,"1,500",41.736332,-87.726685,New,3973934,https://www.zillow.com/homedetails/8606-S-Keeler-Ave-Chicago-IL-60652/3973934_zpid/,06-10-2022_19:19:22
+1352 S Karlov Ave,Chicago,IL,60623,"$7,000",,,"3,049",41.86274,-87.727875,New,158718304,https://www.zillow.com/homedetails/1352-S-Karlov-Ave-Chicago-IL-60623/158718304_zpid/,06-10-2022_19:19:22
+11334 S Harvard Ave,Chicago,IL,60628,"$164,000",3,1,--,41.687794,-87.631714,New,4153273,https://www.zillow.com/homedetails/11334-S-Harvard-Ave-Chicago-IL-60628/4153273_zpid/,06-10-2022_19:19:22
+5963 N Northwest Hwy APT 201,Chicago,IL,60631,"$230,000",2,1,"1,100",41.98965,-87.793564,New,70457566,https://www.zillow.com/homedetails/5963-N-Northwest-Hwy-APT-201-Chicago-IL-60631/70457566_zpid/,06-10-2022_19:19:22
+6705 N Washtenaw Ave,Chicago,IL,60645,"$649,950",6,4,--,,,New,2063308776,https://www.zillow.com/homedetails/6705-N-Washtenaw-Ave-Chicago-IL-60645/2063308776_zpid/,06-10-2022_19:19:22
+4451 W Jackson Blvd,Chicago,IL,60624,"$5,000",,,"3,049",41.876675,-87.737335,New,2078142650,https://www.zillow.com/homedetails/4451-W-Jackson-Blvd-Chicago-IL-60624/2078142650_zpid/,06-10-2022_19:19:22
+11640 S Yale Ave,Chicago,IL,60628,"$174,900",7,4,--,,,New,2116674090,https://www.zillow.com/homedetails/11640-S-Yale-Ave-Chicago-IL-60628/2116674090_zpid/,06-10-2022_19:19:22
+11670 S Wallace St,Chicago,IL,60628,"$205,000",5,2,"2,120",41.682034,-87.63759,New,4153744,https://www.zillow.com/homedetails/11670-S-Wallace-St-Chicago-IL-60628/4153744_zpid/,06-10-2022_19:19:22
+4044 N Kedvale Ave APT 2B,Chicago,IL,60641,"$349,900",3,2,"1,400",41.954983,-87.73135,New,70458436,https://www.zillow.com/homedetails/4044-N-Kedvale-Ave-APT-2B-Chicago-IL-60641/70458436_zpid/,06-10-2022_19:19:22
+2243 N Lincoln Ave APT 1B,Chicago,IL,60614,"$235,000",1,1,--,41.923,-87.64477,New,70462214,https://www.zillow.com/homedetails/2243-N-Lincoln-Ave-APT-1B-Chicago-IL-60614/70462214_zpid/,06-10-2022_19:19:22
+2842 N Mason Ave,Chicago,IL,60634,"$335,000",3,3,--,41.93241,-87.775116,New,3675969,https://www.zillow.com/homedetails/2842-N-Mason-Ave-Chicago-IL-60634/3675969_zpid/,06-10-2022_19:19:22
+2655 N Paulina St,Chicago,IL,60614,"$1,500,000",6,5,"4,765",41.93029,-87.6704,New,65544860,https://www.zillow.com/homedetails/2655-N-Paulina-St-Chicago-IL-60614/65544860_zpid/,06-10-2022_19:19:22
+4756 S Indiana Ave,Chicago,IL,60615,"$949,900",9,6,--,41.807655,-87.62164,New,2112381959,https://www.zillow.com/homedetails/4756-S-Indiana-Ave-Chicago-IL-60615/2112381959_zpid/,06-10-2022_19:19:22
+1104 W Webster Ave APT 101,Chicago,IL,60614,"$495,000",3,3,--,41.92195,-87.65628,New,3735235,https://www.zillow.com/homedetails/1104-W-Webster-Ave-APT-101-Chicago-IL-60614/3735235_zpid/,06-10-2022_19:19:22
+424 E North Water St UNIT D,Chicago,IL,60611,"$895,000",3,3,"2,200",41.889854,-87.616554,New,3868690,https://www.zillow.com/homedetails/424-E-North-Water-St-UNIT-D-Chicago-IL-60611/3868690_zpid/,06-10-2022_19:19:22
+12223 S Loomis St,Chicago,IL,60643,"$49,900",2,2,--,41.6714,-87.65596,New,4159748,https://www.zillow.com/homedetails/12223-S-Loomis-St-Chicago-IL-60643/4159748_zpid/,06-10-2022_19:19:22
+50 E 16th St UNIT 615,Chicago,IL,60616,"$389,500",2,2,"1,205",41.860275,-87.62923,New,113952397,https://www.zillow.com/homedetails/50-E-16th-St-UNIT-615-Chicago-IL-60616/113952397_zpid/,06-10-2022_19:19:22
+6553 S Eberhart Ave,Chicago,IL,60637,"$470,000",4,4,"2,900",41.77513,-87.612755,New,3999309,https://www.zillow.com/homedetails/6553-S-Eberhart-Ave-Chicago-IL-60637/3999309_zpid/,06-10-2022_19:19:22
+2430 W 47th Pl,Chicago,IL,60632,"$219,000",4,2,"4,166",41.807766,-87.68576,New,3929286,https://www.zillow.com/homedetails/2430-W-47th-Pl-Chicago-IL-60632/3929286_zpid/,06-10-2022_19:19:22
+1529 S State St #9D,Chicago,IL,60605,"$225,000",1,1,--,41.861122,-87.626884,New,63704326,https://www.zillow.com/homedetails/1529-S-State-St-9D-Chicago-IL-60605/63704326_zpid/,06-10-2022_19:19:22
+2561 W Cullom Ave,Chicago,IL,60618,"$699,500",2,3,--,41.959206,-87.69413,New,3644047,https://www.zillow.com/homedetails/2561-W-Cullom-Ave-Chicago-IL-60618/3644047_zpid/,06-10-2022_19:19:22
+7022 S Union Ave,Chicago,IL,60621,"$165,000",5,2,--,41.766308,-87.642334,New,2075752099,https://www.zillow.com/homedetails/7022-S-Union-Ave-Chicago-IL-60621/2075752099_zpid/,06-10-2022_19:19:22
+2016 N Bissell St,Chicago,IL,60614,"$1,750,000",8,4,--,41.91867,-87.65243,New,2079043439,https://www.zillow.com/homedetails/2016-N-Bissell-St-Chicago-IL-60614/2079043439_zpid/,06-10-2022_19:19:22
+655 W Irving Park Rd APT 3005,Chicago,IL,60613,"$169,900",,1,550,41.954388,-87.64714,New,65560968,https://www.zillow.com/homedetails/655-W-Irving-Park-Rd-APT-3005-Chicago-IL-60613/65560968_zpid/,06-10-2022_19:19:22
+5207 S Latrobe Ave,Chicago,IL,60638,"$424,900",6,3,"1,707",41.798054,-87.75355,New,3924707,https://www.zillow.com/homedetails/5207-S-Latrobe-Ave-Chicago-IL-60638/3924707_zpid/,06-10-2022_19:19:22
+850 N Dewitt Pl APT 9E,Chicago,IL,60611,"$235,000",1,1,--,41.89724,-87.61884,New,3852357,https://www.zillow.com/homedetails/850-N-Dewitt-Pl-APT-9E-Chicago-IL-60611/3852357_zpid/,06-10-2022_19:19:22
+11628 S Bishop St,Chicago,IL,60643,"$84,900",3,2,"1,120",41.68218,-87.658226,New,4151090,https://www.zillow.com/homedetails/11628-S-Bishop-St-Chicago-IL-60643/4151090_zpid/,06-10-2022_19:19:22
+1257 W Granville Ave APT 1,Chicago,IL,60660,"$314,900",2,2,"1,200",41.994247,-87.662605,New,70459310,https://www.zillow.com/homedetails/1257-W-Granville-Ave-APT-1-Chicago-IL-60660/70459310_zpid/,06-10-2022_19:19:22
+4958 W Newport Ave #2W,Chicago,IL,60641,"$217,000",3,2,"1,100",41.943478,-87.75162,New,87715425,https://www.zillow.com/homedetails/4958-W-Newport-Ave-2W-Chicago-IL-60641/87715425_zpid/,06-10-2022_19:19:22
+2148 W 19th St,Chicago,IL,60608,"$499,900",6,4,--,41.85605,-87.680336,New,2062919526,https://www.zillow.com/homedetails/2148-W-19th-St-Chicago-IL-60608/2062919526_zpid/,06-10-2022_19:19:22
+8 W Monroe St APT 1404,Chicago,IL,60603,"$345,000",2,2,"1,300",41.88095,-87.62815,New,118915043,https://www.zillow.com/homedetails/8-W-Monroe-St-APT-1404-Chicago-IL-60603/118915043_zpid/,06-10-2022_19:19:22
+11425 S Hermosa Ave,Chicago,IL,60643,"$12,500",,,"3,485",41.68565,-87.66979,New,159217429,https://www.zillow.com/homedetails/11425-S-Hermosa-Ave-Chicago-IL-60643/159217429_zpid/,06-10-2022_19:19:22
+5027 W Nelson St,Chicago,IL,60641,"$424,900",4,2,--,41.935753,-87.75273,New,2062919595,https://www.zillow.com/homedetails/5027-W-Nelson-St-Chicago-IL-60641/2062919595_zpid/,06-10-2022_19:19:22
+3550 N Lake Shore Dr APT 304,Chicago,IL,60657,"$229,000",2,1,833,41.947845,-87.64352,New,3715819,https://www.zillow.com/homedetails/3550-N-Lake-Shore-Dr-APT-304-Chicago-IL-60657/3715819_zpid/,06-10-2022_19:19:22
+2224 W Madison St UNIT 202,Chicago,IL,60612,"$295,000",2,2,"1,371",41.881435,-87.68259,New,113499512,https://www.zillow.com/homedetails/2224-W-Madison-St-UNIT-202-Chicago-IL-60612/113499512_zpid/,06-10-2022_19:19:22
+9645 S Avenue L,Chicago,IL,60617,"$299,000",1,4,--,,,Re-activated,2120599793,https://www.zillow.com/homedetails/9645-S-Avenue-L-Chicago-IL-60617/2120599793_zpid/,06-10-2022_19:19:22
+5249 S Mulligan Ave,Chicago,IL,60638,"$548,000",4,3,"2,800",41.7965,-87.780365,New,3920962,https://www.zillow.com/homedetails/5249-S-Mulligan-Ave-Chicago-IL-60638/3920962_zpid/,06-10-2022_19:19:22
+9204 S Colfax Ave,Chicago,IL,60617,"$299,900",4,2,"2,280",41.727894,-87.56123,New,4167152,https://www.zillow.com/homedetails/9204-S-Colfax-Ave-Chicago-IL-60617/4167152_zpid/,06-10-2022_19:19:22
+2305 W Wabansia Ave APT 2,Chicago,IL,60647,"$540,000",2,2,--,41.91234,-87.68513,New,70462072,https://www.zillow.com/homedetails/2305-W-Wabansia-Ave-APT-2-Chicago-IL-60647/70462072_zpid/,06-10-2022_19:19:22
+2740 W 18th St,Chicago,IL,60608,"$375,000",9,3,--,41.857677,-87.69483,New,2071631424,https://www.zillow.com/homedetails/2740-W-18th-St-Chicago-IL-60608/2071631424_zpid/,06-10-2022_19:19:22
+6050 W Lawrence Ave,Chicago,IL,60630,"$439,900",4,2,"1,068",41.96788,-87.77924,New,3650291,https://www.zillow.com/homedetails/6050-W-Lawrence-Ave-Chicago-IL-60630/3650291_zpid/,06-10-2022_19:19:22
+5203 W Olive Ave,Chicago,IL,60646,"$559,900",4,3,"2,500",41.983807,-87.759415,New,123561114,https://www.zillow.com/homedetails/5203-W-Olive-Ave-Chicago-IL-60646/123561114_zpid/,06-10-2022_19:19:22
+235 W Van Buren St UNIT 1919,Chicago,IL,60607,"$325,000",2,2,"1,048",41.876556,-87.63479,New,2075744904,https://www.zillow.com/homedetails/235-W-Van-Buren-St-UNIT-1919-Chicago-IL-60607/2075744904_zpid/,06-10-2022_19:19:22
+660 W Wayman St UNIT 507B,Chicago,IL,60661,"$324,900",2,2,800,,,New,2075715672,https://www.zillow.com/homedetails/660-W-Wayman-St-UNIT-507B-Chicago-IL-60661/2075715672_zpid/,06-10-2022_19:19:22
+1148 W Diversey Pkwy APT 2,Chicago,IL,60614,"$475,000",2,2,--,41.93283,-87.65775,New,63695635,https://www.zillow.com/homedetails/1148-W-Diversey-Pkwy-APT-2-Chicago-IL-60614/63695635_zpid/,06-10-2022_19:19:22
+1756 W Erie St,Chicago,IL,60622,"$1,250,000",4,4,"4,200",41.893524,-87.67184,New,70465596,https://www.zillow.com/homedetails/1756-W-Erie-St-Chicago-IL-60622/70465596_zpid/,06-10-2022_19:19:22
+829 N Latrobe Ave,Chicago,IL,60651,"$499,900",5,2,--,41.89585,-87.75649,New,2062922878,https://www.zillow.com/homedetails/829-N-Latrobe-Ave-Chicago-IL-60651/2062922878_zpid/,06-10-2022_19:19:22
+7427 N Ridge Blvd APT 2F,Chicago,IL,60645,"$190,000",2,1,"1,050",42.01684,-87.6839,Active,2075483981,https://www.zillow.com/homedetails/7427-N-Ridge-Blvd-APT-2F-Chicago-IL-60645/2075483981_zpid/,06-10-2022_19:19:22
+2909 N Sheridan Rd APT 1012,Chicago,IL,60657,"$170,000",1,1,--,41.9347,-87.63885,New,3722891,https://www.zillow.com/homedetails/2909-N-Sheridan-Rd-APT-1012-Chicago-IL-60657/3722891_zpid/,06-10-2022_19:19:22
+233 E Erie St APT 2308,Chicago,IL,60611,"$149,000",1,1,--,41.89397,-87.621475,New,3866823,https://www.zillow.com/homedetails/233-E-Erie-St-APT-2308-Chicago-IL-60611/3866823_zpid/,06-10-2022_19:19:22
+1647 N Mozart St,Chicago,IL,60647,"$649,900",3,2,--,41.91168,-87.697754,New,2062922950,https://www.zillow.com/homedetails/1647-N-Mozart-St-Chicago-IL-60647/2062922950_zpid/,06-10-2022_19:19:22
+8025 S Mozart St,Chicago,IL,60652,"$279,900",4,3,"1,200",41.74737,-87.69342,New,3977474,https://www.zillow.com/homedetails/8025-S-Mozart-St-Chicago-IL-60652/3977474_zpid/,06-10-2022_19:19:22
+865 N Marshfield Ave #1,Chicago,IL,60622,"$715,000",3,3,"2,400",41.897903,-87.66822,New,119097471,https://www.zillow.com/homedetails/865-N-Marshfield-Ave-1-Chicago-IL-60622/119097471_zpid/,06-10-2022_19:19:22
+1738 W 17th St #1,Chicago,IL,60608,"$389,000",3,2,--,41.85866,-87.669785,New,2062924368,https://www.zillow.com/homedetails/1738-W-17th-St-1-Chicago-IL-60608/2062924368_zpid/,06-10-2022_19:19:22
+6949 S Justine St,Chicago,IL,60636,"$230,000",5,2,--,41.76717,-87.662315,New,2099893567,https://www.zillow.com/homedetails/6949-S-Justine-St-Chicago-IL-60636/2099893567_zpid/,06-10-2022_19:19:22
+5529 S Blackstone Ave APT 1E,Chicago,IL,60637,"$221,000",2,1,850,41.794376,-87.5899,New,3990231,https://www.zillow.com/homedetails/5529-S-Blackstone-Ave-APT-1E-Chicago-IL-60637/3990231_zpid/,06-10-2022_19:19:22
+1630 W Julian St #3,Chicago,IL,60622,"$699,000",3,3,--,41.90856,-87.66888,New,89947746,https://www.zillow.com/homedetails/1630-W-Julian-St-3-Chicago-IL-60622/89947746_zpid/,06-10-2022_19:19:22
+150 W Eugenie St APT 26,Chicago,IL,60614,"$749,900",4,4,--,41.913555,-87.63399,New,3742583,https://www.zillow.com/homedetails/150-W-Eugenie-St-APT-26-Chicago-IL-60614/3742583_zpid/,06-10-2022_19:19:22
+920 N Laramie Ave,Chicago,IL,60651,"$269,900",6,3,--,41.897438,-87.75601,New,2067500563,https://www.zillow.com/homedetails/920-N-Laramie-Ave-Chicago-IL-60651/2067500563_zpid/,06-10-2022_19:19:22
+5259 S Mulligan Ave,Chicago,IL,60638,"$380,000",3,2,"1,270",41.79624,-87.78035,New,3920973,https://www.zillow.com/homedetails/5259-S-Mulligan-Ave-Chicago-IL-60638/3920973_zpid/,06-10-2022_19:19:22
+8224 S Sacramento Ave,Chicago,IL,60652,"$275,000",4,2,--,41.743584,-87.697685,New,3977854,https://www.zillow.com/homedetails/8224-S-Sacramento-Ave-Chicago-IL-60652/3977854_zpid/,06-10-2022_19:19:22
+2516 N Halsted St #4S,Chicago,IL,60614,"$795,000",3,2,--,41.927822,-87.6492,New,80845897,https://www.zillow.com/homedetails/2516-N-Halsted-St-4S-Chicago-IL-60614/80845897_zpid/,06-10-2022_19:19:22
+5806 W 64th Pl,Chicago,IL,60638,"$379,500",7,5,--,41.77549,-87.7669,New,3948494,https://www.zillow.com/homedetails/5806-W-64th-Pl-Chicago-IL-60638/3948494_zpid/,06-10-2022_19:19:22
+312 N May St UNIT 6H,Chicago,IL,60607,"$525,000",2,2,"1,550",41.88735,-87.65603,New,60202567,https://www.zillow.com/homedetails/312-N-May-St-UNIT-6H-Chicago-IL-60607/60202567_zpid/,06-10-2022_19:19:22
+1824 W Foster Ave #202,Chicago,IL,60640,"$620,000",3,2,"1,700",,,New,2062926899,https://www.zillow.com/homedetails/1824-W-Foster-Ave-202-Chicago-IL-60640/2062926899_zpid/,06-10-2022_19:19:22
+11717 S Princeton Ave,Chicago,IL,60628,"$149,900",4,2,--,41.681072,-87.629616,New,2098853566,https://www.zillow.com/homedetails/11717-S-Princeton-Ave-Chicago-IL-60628/2098853566_zpid/,06-10-2022_19:19:22
+1912 W Estes Ave APT 2,Chicago,IL,60626,"$300,000",2,2,"1,500",42.011677,-87.67872,New,89934387,https://www.zillow.com/homedetails/1912-W-Estes-Ave-APT-2-Chicago-IL-60626/89934387_zpid/,06-10-2022_19:19:22
+2508 N Southport Ave #2,Chicago,IL,60614,"$469,000",2,2,--,41.927357,-87.663734,New,65546558,https://www.zillow.com/homedetails/2508-N-Southport-Ave-2-Chicago-IL-60614/65546558_zpid/,06-10-2022_19:19:22
+240 E Illinois St APT 805,Chicago,IL,60611,"$375,000",1,1,950,41.891693,-87.620445,New,89939248,https://www.zillow.com/homedetails/240-E-Illinois-St-APT-805-Chicago-IL-60611/89939248_zpid/,06-10-2022_19:19:22
+170 W Goethe St,Chicago,IL,60610,"$795,000",3,3,--,41.90586,-87.63411,New,2080745854,https://www.zillow.com/homedetails/170-W-Goethe-St-Chicago-IL-60610/2080745854_zpid/,06-10-2022_19:19:22
+2704 N Bosworth Ave #1N,Chicago,IL,60614,"$1,150,000",4,4,--,,,New,2075439755,https://www.zillow.com/homedetails/2704-N-Bosworth-Ave-1N-Chicago-IL-60614/2075439755_zpid/,06-10-2022_19:19:22
+111 E Chestnut St APT 11J,Chicago,IL,60611,"$379,000",2,1,"1,000",41.89821,-87.62524,New,2084412038,https://www.zillow.com/homedetails/111-E-Chestnut-St-APT-11J-Chicago-IL-60611/2084412038_zpid/,06-10-2022_19:19:22
+5926 S Elizabeth St,Chicago,IL,60636,"$199,900",7,4,--,41.78599,-87.65623,New,2092635737,https://www.zillow.com/homedetails/5926-S-Elizabeth-St-Chicago-IL-60636/2092635737_zpid/,06-10-2022_19:19:22
+2221 W Cortland St #2,Chicago,IL,60647,"$379,000",3,1,--,41.91588,-87.683334,New,80823394,https://www.zillow.com/homedetails/2221-W-Cortland-St-2-Chicago-IL-60647/80823394_zpid/,06-10-2022_19:19:22
+4831 N Harlem Ave #3N,Chicago,IL,60656,"$129,900",1,1,800,41.969173,-87.806755,New,2062928088,https://www.zillow.com/homedetails/4831-N-Harlem-Ave-3N-Chicago-IL-60656/2062928088_zpid/,06-10-2022_19:19:22
+4333 N Meade Ave,Chicago,IL,60634,"$329,900",4,1,--,41.959476,-87.77908,New,3652300,https://www.zillow.com/homedetails/4333-N-Meade-Ave-Chicago-IL-60634/3652300_zpid/,06-10-2022_19:19:22
+9927 S Green St,Chicago,IL,60643,"$255,000",4,2,"2,100",41.71328,-87.64387,New,4129079,https://www.zillow.com/homedetails/9927-S-Green-St-Chicago-IL-60643/4129079_zpid/,06-10-2022_19:19:22
+19 E 118th St,Chicago,IL,60628,"$59,500",4,1,804,41.6796,-87.621895,New,4155680,https://www.zillow.com/homedetails/19-E-118th-St-Chicago-IL-60628/4155680_zpid/,06-10-2022_19:19:22
+634 N Homan Ave,Chicago,IL,60624,"$550,000",7,4,--,41.892914,-87.71172,New,2116784761,https://www.zillow.com/homedetails/634-N-Homan-Ave-Chicago-IL-60624/2116784761_zpid/,06-10-2022_19:19:22
+5723 W Erie St,Chicago,IL,60644,"$83,900",3,1,882,41.89168,-87.76872,New,3807266,https://www.zillow.com/homedetails/5723-W-Erie-St-Chicago-IL-60644/3807266_zpid/,06-10-2022_19:19:22
+910 S Michigan Ave APT 1211,Chicago,IL,60605,"$444,900",2,2,"1,650",41.870163,-87.62485,New,70449738,https://www.zillow.com/homedetails/910-S-Michigan-Ave-APT-1211-Chicago-IL-60605/70449738_zpid/,06-10-2022_19:19:22
+159 E Walton Pl APT 14A,Chicago,IL,60611,"$2,950,000",2,3,"2,832",41.89979,-87.623505,Re-activated,80822248,https://www.zillow.com/homedetails/159-E-Walton-Pl-APT-14A-Chicago-IL-60611/80822248_zpid/,06-10-2022_19:19:22
+1305 E 69th St,Chicago,IL,60637,"$98,000",5,2,--,41.76969,-87.59381,New,2062928894,https://www.zillow.com/homedetails/1305-E-69th-St-Chicago-IL-60637/2062928894_zpid/,06-10-2022_19:19:22
+1250 N Dearborn St APT 23C,Chicago,IL,60610,"$484,900",2,2,"1,400",41.90541,-87.63045,New,3857811,https://www.zillow.com/homedetails/1250-N-Dearborn-St-APT-23C-Chicago-IL-60610/3857811_zpid/,06-10-2022_19:19:22
+4309 W 83rd St,Chicago,IL,60652,"$299,900",5,2,"1,400",41.74182,-87.729416,New,3973331,https://www.zillow.com/homedetails/4309-W-83rd-St-Chicago-IL-60652/3973331_zpid/,06-10-2022_19:19:22
+842 W Belle Plaine Ave APT 1W,Chicago,IL,60613,"$439,375",3,2,--,41.957462,-87.65145,New,113953871,https://www.zillow.com/homedetails/842-W-Belle-Plaine-Ave-APT-1W-Chicago-IL-60613/113953871_zpid/,06-10-2022_19:19:22
+680 N Lake Shore Dr APT 919,Chicago,IL,60611,"$375,000",2,3,"2,000",41.894665,-87.61671,New,3866146,https://www.zillow.com/homedetails/680-N-Lake-Shore-Dr-APT-919-Chicago-IL-60611/3866146_zpid/,06-10-2022_19:19:22
+6801 S Winchester Ave,Chicago,IL,60636,"$180,000",6,2,"2,500",41.77014,-87.672104,Re-activated,3996626,https://www.zillow.com/homedetails/6801-S-Winchester-Ave-Chicago-IL-60636/3996626_zpid/,06-10-2022_19:19:22
+5644 S Wabash Ave,Chicago,IL,60637,"$160,000",4,5,"2,000",41.791573,-87.624466,New,2141481428,https://www.zillow.com/homedetails/5644-S-Wabash-Ave-Chicago-IL-60637/2141481428_zpid/,06-10-2022_19:19:22
+8714 S Marshfield Ave,Chicago,IL,60620,"$105,000",3,2,"1,155",41.735218,-87.66461,New,4123290,https://www.zillow.com/homedetails/8714-S-Marshfield-Ave-Chicago-IL-60620/4123290_zpid/,06-10-2022_19:19:22
+1422 N Orleans St APT 4S,Chicago,IL,60610,"$750,000",3,3,"2,500",41.908333,-87.63781,New,2093575620,https://www.zillow.com/homedetails/1422-N-Orleans-St-APT-4S-Chicago-IL-60610/2093575620_zpid/,06-10-2022_19:19:22
+2723 W 22nd Pl,Chicago,IL,60608,"$440,000",9,3,--,41.850746,-87.693924,New,2062931509,https://www.zillow.com/homedetails/2723-W-22nd-Pl-Chicago-IL-60608/2062931509_zpid/,06-10-2022_19:19:22
+9043 S Laflin St,Chicago,IL,60620,"$345,500",6,3,--,41.7291,-87.6601,New,2120015192,https://www.zillow.com/homedetails/9043-S-Laflin-St-Chicago-IL-60620/2120015192_zpid/,06-10-2022_19:19:22
+6854 S Keeler Ave,Chicago,IL,60629,"$282,000",3,1,"1,056",41.767876,-87.72771,New,3951832,https://www.zillow.com/homedetails/6854-S-Keeler-Ave-Chicago-IL-60629/3951832_zpid/,06-10-2022_19:19:22
+1520 W 71st St,Chicago,IL,60636,"$92,500",4,3,"1,500",41.76519,-87.66226,New,3998078,https://www.zillow.com/homedetails/1520-W-71st-St-Chicago-IL-60636/3998078_zpid/,06-10-2022_19:19:22
+5533 S Francisco Ave,Chicago,IL,60629,"$199,000",2,2,"1,143",41.79264,-87.69586,New,3930960,https://www.zillow.com/homedetails/5533-S-Francisco-Ave-Chicago-IL-60629/3930960_zpid/,06-10-2022_19:19:22
+5215 N Laporte Ave,Chicago,IL,60630,"$549,900",4,2,--,41.975815,-87.75153,New,2129279949,https://www.zillow.com/homedetails/5215-N-Laporte-Ave-Chicago-IL-60630/2129279949_zpid/,06-10-2022_19:19:22
+3332 W Irving Park Rd,Chicago,IL,60618,"$1,799,000",9,6,--,41.95418,-87.71183,New,2089730879,https://www.zillow.com/homedetails/3332-W-Irving-Park-Rd-Chicago-IL-60618/2089730879_zpid/,06-10-2022_19:19:22
+6805 S Keeler Ave,Chicago,IL,60629,"$324,900",3,3,"1,100",41.769287,-87.72704,New,3951840,https://www.zillow.com/homedetails/6805-S-Keeler-Ave-Chicago-IL-60629/3951840_zpid/,06-10-2022_19:19:22
+9411 S Leavitt St,Chicago,IL,60643,"$439,000",3,2,"1,614",41.72239,-87.67691,New,4124321,https://www.zillow.com/homedetails/9411-S-Leavitt-St-Chicago-IL-60643/4124321_zpid/,06-10-2022_19:19:22
+1222 N Orleans St,Chicago,IL,60610,"$975,000",3,4,"3,100",41.904465,-87.637726,New,65563756,https://www.zillow.com/homedetails/1222-N-Orleans-St-Chicago-IL-60610/65563756_zpid/,06-10-2022_19:19:22
+5601 N Sheridan Rd APT 10E,Chicago,IL,60660,"$249,900",2,2,"1,217",41.98401,-87.65459,New,3695417,https://www.zillow.com/homedetails/5601-N-Sheridan-Rd-APT-10E-Chicago-IL-60660/3695417_zpid/,06-10-2022_19:19:22
+3549 N Reta Ave APT 4,Chicago,IL,60657,"$685,000",2,2,"1,500",41.94692,-87.65033,New,123056952,https://www.zillow.com/homedetails/3549-N-Reta-Ave-APT-4-Chicago-IL-60657/123056952_zpid/,06-10-2022_19:19:22
+8 Randolph St #1401,Chicago,IL,60601,"$525,000",2,2,--,,,New,2066615715,https://www.zillow.com/homedetails/8-Randolph-St-1401-Chicago-IL-60601/2066615715_zpid/,06-10-2022_19:19:22
+9937 S Fairfield Ave,Chicago,IL,60655,"$419,900",5,3,"2,100",41.712437,-87.69016,New,4077505,https://www.zillow.com/homedetails/9937-S-Fairfield-Ave-Chicago-IL-60655/4077505_zpid/,06-10-2022_19:19:22
+2136 W Monroe St APT 104,Chicago,IL,60612,"$265,000",2,2,--,41.88024,-87.680534,New,61961368,https://www.zillow.com/homedetails/2136-W-Monroe-St-APT-104-Chicago-IL-60612/61961368_zpid/,06-10-2022_19:19:22
+5700 W Wilson Ave,Chicago,IL,60630,"$498,000",5,2,"1,600",41.96436,-87.76999,New,3651567,https://www.zillow.com/homedetails/5700-W-Wilson-Ave-Chicago-IL-60630/3651567_zpid/,06-10-2022_19:19:22
+1867 N Halsted St APT 2N,Chicago,IL,60614,"$650,000",3,2,--,41.915752,-87.64807,New,3739757,https://www.zillow.com/homedetails/1867-N-Halsted-St-APT-2N-Chicago-IL-60614/3739757_zpid/,06-10-2022_19:19:22
+1817 N Hudson Ave,Chicago,IL,60614,"$1,619,000",2,2,"3,240",41.91524,-87.6396,New,3740496,https://www.zillow.com/homedetails/1817-N-Hudson-Ave-Chicago-IL-60614/3740496_zpid/,06-10-2022_19:19:22
+1455 N Sandburg Ter APT 2804B,Chicago,IL,60610,"$225,000",1,1,800,41.90869,-87.632034,New,3853616,https://www.zillow.com/homedetails/1455-N-Sandburg-Ter-APT-2804B-Chicago-IL-60610/3853616_zpid/,06-10-2022_19:19:22
+2052 W 68th Pl,Chicago,IL,60636,"$35,000",3,2,"1,682",41.769585,-87.67574,New,3996047,https://www.zillow.com/homedetails/2052-W-68th-Pl-Chicago-IL-60636/3996047_zpid/,06-10-2022_19:19:22
+33 W Delaware Pl APT 10G,Chicago,IL,60610,"$249,900",1,1,--,41.898926,-87.629326,New,65564603,https://www.zillow.com/homedetails/33-W-Delaware-Pl-APT-10G-Chicago-IL-60610/65564603_zpid/,06-10-2022_19:19:22
+5427 S Hyde Park Blvd APT 3,Chicago,IL,60615,"$299,000",3,2,"1,900",41.79727,-87.58359,New,2120872506,https://www.zillow.com/homedetails/5427-S-Hyde-Park-Blvd-APT-3-Chicago-IL-60615/2120872506_zpid/,06-10-2022_19:19:22
+3660 N Lake Shore Dr APT 1502,Chicago,IL,60613,"$390,000",2,2,--,41.949593,-87.64577,New,60264128,https://www.zillow.com/homedetails/3660-N-Lake-Shore-Dr-APT-1502-Chicago-IL-60613/60264128_zpid/,06-10-2022_19:19:22
+3133 N Lakewood Ave APT 3E,Chicago,IL,60657,"$389,000",2,2,--,41.939545,-87.66079,New,99356671,https://www.zillow.com/homedetails/3133-N-Lakewood-Ave-APT-3E-Chicago-IL-60657/99356671_zpid/,06-10-2022_19:19:22
+5748 S Racine Ave,Chicago,IL,60636,"$188,000",7,3,--,41.789097,-87.6551,New,2143643747,https://www.zillow.com/homedetails/5748-S-Racine-Ave-Chicago-IL-60636/2143643747_zpid/,06-10-2022_19:19:22
+655 W Irving Park Rd APT 3509,Chicago,IL,60613,"$144,999",,1,550,41.954388,-87.64714,New,65561043,https://www.zillow.com/homedetails/655-W-Irving-Park-Rd-APT-3509-Chicago-IL-60613/65561043_zpid/,06-10-2022_19:19:22
+5825 W Eddy St,Chicago,IL,60634,"$399,900",3,3,"2,900",41.944637,-87.77264,New,3661498,https://www.zillow.com/homedetails/5825-W-Eddy-St-Chicago-IL-60634/3661498_zpid/,06-10-2022_19:19:22
+2300 W Wabansia Ave APT 308,Chicago,IL,60647,"$499,000",2,2,--,41.91287,-87.68447,New,3733094,https://www.zillow.com/homedetails/2300-W-Wabansia-Ave-APT-308-Chicago-IL-60647/3733094_zpid/,06-10-2022_19:19:22
+88 W Schiller St APT 2601L,Chicago,IL,60610,"$275,000",1,1,--,41.90808,-87.631165,New,3854719,https://www.zillow.com/homedetails/88-W-Schiller-St-APT-2601L-Chicago-IL-60610/3854719_zpid/,06-10-2022_19:19:22
+5737 S Hamilton Ave,Chicago,IL,60636,"$55,000",3,1,"1,600",41.789104,-87.677475,New,3993303,https://www.zillow.com/homedetails/5737-S-Hamilton-Ave-Chicago-IL-60636/3993303_zpid/,06-10-2022_19:19:22
+3348 N Kenmore Ave APT 2,Chicago,IL,60657,"$649,900",3,2,--,41.943127,-87.65577,New,63695239,https://www.zillow.com/homedetails/3348-N-Kenmore-Ave-APT-2-Chicago-IL-60657/63695239_zpid/,06-10-2022_19:19:22
+5915 S Spaulding Ave,Chicago,IL,60629,"$319,900",4,2,"2,230",41.785717,-87.705414,New,2126277898,https://www.zillow.com/homedetails/5915-S-Spaulding-Ave-Chicago-IL-60629/2126277898_zpid/,06-10-2022_19:19:22
+2802 W Wilson Ave,Chicago,IL,60625,"$1,030,000",4,3,"3,400",41.965027,-87.69876,New,3642868,https://www.zillow.com/homedetails/2802-W-Wilson-Ave-Chicago-IL-60625/3642868_zpid/,06-10-2022_19:19:22
+11636 S Avenue M,Chicago,IL,60617,"$389,900",4,2,"3,000",41.683453,-87.53801,New,4173794,https://www.zillow.com/homedetails/11636-S-Avenue-M-Chicago-IL-60617/4173794_zpid/,06-10-2022_19:19:22
+3600 N Lake Shore Dr APT 722,Chicago,IL,60613,"$159,900",,1,600,41.94897,-87.64418,New,3715277,https://www.zillow.com/homedetails/3600-N-Lake-Shore-Dr-APT-722-Chicago-IL-60613/3715277_zpid/,06-10-2022_19:19:22
+3127 N Oak Park Ave,Chicago,IL,60634,"$418,000",5,3,"1,871",41.93712,-87.79531,New,3678242,https://www.zillow.com/homedetails/3127-N-Oak-Park-Ave-Chicago-IL-60634/3678242_zpid/,06-10-2022_19:19:22
+9524 S Avalon Ave,Chicago,IL,60628,"$140,000",2,1,"1,029",41.72141,-87.5939,New,4135509,https://www.zillow.com/homedetails/9524-S-Avalon-Ave-Chicago-IL-60628/4135509_zpid/,06-10-2022_19:19:22
+125 E 13th St UNIT 508,Chicago,IL,60605,"$650,000",2,2,"1,484",41.865414,-87.6228,New,70474688,https://www.zillow.com/homedetails/125-E-13th-St-UNIT-508-Chicago-IL-60605/70474688_zpid/,06-10-2022_19:19:22
+845 N Kingsbury St UNIT 411,Chicago,IL,60610,"$295,000",1,1,--,41.89852,-87.64342,New,89905454,https://www.zillow.com/homedetails/845-N-Kingsbury-St-UNIT-411-Chicago-IL-60610/89905454_zpid/,06-10-2022_19:19:22
+659 W Randolph St APT 1804,Chicago,IL,60661,"$599,900",2,2,"1,230",41.884,-87.645035,New,101305662,https://www.zillow.com/homedetails/659-W-Randolph-St-APT-1804-Chicago-IL-60661/101305662_zpid/,06-10-2022_19:19:22
+500 W Superior St UNIT 2209,Chicago,IL,60654,"$1,395,000",3,4,"2,450",41.895775,-87.64222,New,87726339,https://www.zillow.com/homedetails/500-W-Superior-St-UNIT-2209-Chicago-IL-60654/87726339_zpid/,06-10-2022_19:19:22
+5236 W Roscoe St,Chicago,IL,60641,"$479,896",6,2,--,41.942593,-87.75829,New,2120912342,https://www.zillow.com/homedetails/5236-W-Roscoe-St-Chicago-IL-60641/2120912342_zpid/,06-10-2022_19:19:22
+5145 S Newcastle Ave,Chicago,IL,60638,"$298,000",3,1,"1,022",41.798157,-87.79261,New,3918988,https://www.zillow.com/homedetails/5145-S-Newcastle-Ave-Chicago-IL-60638/3918988_zpid/,06-10-2022_19:19:22
+926 W Margate Ter APT 3W,Chicago,IL,60640,"$550,000",3,3,"2,000",41.972683,-87.65365,New,2075732804,https://www.zillow.com/homedetails/926-W-Margate-Ter-APT-3W-Chicago-IL-60640/2075732804_zpid/,06-10-2022_19:19:22
+2034 N Orleans St,Chicago,IL,60614,"$2,100,000",1,7,--,41.919373,-87.638054,New,2098531622,https://www.zillow.com/homedetails/2034-N-Orleans-St-Chicago-IL-60614/2098531622_zpid/,06-10-2022_19:19:22
+1017 N California Ave #6,Chicago,IL,60622,"$599,000",3,2,--,41.89985,-87.69641,New,306333204,https://www.zillow.com/homedetails/1017-N-California-Ave-6-Chicago-IL-60622/306333204_zpid/,06-10-2022_19:19:22
+4820 N Kildare Ave,Chicago,IL,60630,"$525,000",7,4,--,41.96884,-87.73581,New,2097856277,https://www.zillow.com/homedetails/4820-N-Kildare-Ave-Chicago-IL-60630/2097856277_zpid/,06-10-2022_19:19:22
+728 S Campbell Ave,Chicago,IL,60612,"$550,000",4,4,--,41.872158,-87.68891,New,3811455,https://www.zillow.com/homedetails/728-S-Campbell-Ave-Chicago-IL-60612/3811455_zpid/,06-10-2022_19:19:22
+535 N Michigan Ave APT 2108,Chicago,IL,60611,"$236,900",1,1,838,41.891865,-87.6239,New,3864626,https://www.zillow.com/homedetails/535-N-Michigan-Ave-APT-2108-Chicago-IL-60611/3864626_zpid/,06-10-2022_19:19:22
+1717 S Prairie Ave APT 2207,Chicago,IL,60616,"$299,999",1,1,--,41.858482,-87.61991,New,70475892,https://www.zillow.com/homedetails/1717-S-Prairie-Ave-APT-2207-Chicago-IL-60616/70475892_zpid/,06-10-2022_19:19:22
+446 W Superior St,Chicago,IL,60654,"$1,850,000",4,5,"4,063",41.895695,-87.640495,New,70430497,https://www.zillow.com/homedetails/446-W-Superior-St-Chicago-IL-60654/70430497_zpid/,06-10-2022_19:19:22
